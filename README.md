@@ -100,6 +100,7 @@ Stars: 0
 
 #### ⭐ Recent Stars
 
+- [luisbocanegra/kde-material-you-colors](https://github.com/luisbocanegra/kde-material-you-colors) - Automatic Material You Colors Generator from your wallpaper for the Plasma Desktop (today)
 - [netbootxyz/netboot.xyz-custom](https://github.com/netbootxyz/netboot.xyz-custom) - Create your own custom github menu for netboot.xyz (1 week ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
 - [ubergeek42/weechat-android](https://github.com/ubergeek42/weechat-android) - Simple Weechat-Relay Android Client (1 week ago)
@@ -109,7 +110,6 @@ Stars: 0
 - [dr460nf1r3/school-rpi](https://github.com/dr460nf1r3/school-rpi) - This repo contains stuff used to complete school assignments with a Raspberry Pi (1 week ago)
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video. (1 week ago)
 - [TopazLabs/FFmpeg](https://github.com/TopazLabs/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git (1 week ago)
-- [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning (1 month ago)
 
 #### :globe_with_meridians: Recent followers
 
