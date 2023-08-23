@@ -1,14 +1,14 @@
 #### :skull: Currently
 
-- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - My Scripts (3 days ago)
-- [4ndr0666/archlinux-default-files](https://github.com/4ndr0666/archlinux-default-files) - for compare.sh (5 days ago)
+- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - My Scripts (4 days ago)
+- [4ndr0666/archlinux-default-files](https://github.com/4ndr0666/archlinux-default-files) - for compare.sh (6 days ago)
 - [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - Collection of transcripts, scripts and tools. (1 month ago)
 - [4ndr0666/autojdownload](https://github.com/4ndr0666/autojdownload) - Workflow for Jdownloader that scrapes multiple links from a given site by hoster or extension. (3 months ago)
 - [4ndr0666/FFmpeg](https://github.com/4ndr0666/FFmpeg) - This custom FFmpeg upscaling project aims to provide an easy-to-use solution for upscaling videos. By utilizing a Docker container, we streamline the installation and setup process, making it more accessible for users on different platforms. This project is designed for users who want to enhance the quality of their videos using FFmpeg. (3 months ago)
 - [4ndr0666/5cripts_in_progress](https://github.com/4ndr0666/5cripts_in_progress) - scripts im working on (4 months ago)
 - [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - 4ndr0666 Dotfiles (4 months ago)
 - [4ndr0666/KDE-html-clock](https://github.com/4ndr0666/KDE-html-clock) -  (6 months ago)
-- [4ndr0666/Best-Arch](https://github.com/4ndr0666/Best-Arch) - My arch config (9 months ago)
+- [4ndr0666/Best-Arch](https://github.com/4ndr0666/Best-Arch) - My arch config (10 months ago)
 - [4ndr0666/My-appimages](https://github.com/4ndr0666/My-appimages) - custom made appimages (11 months ago)
 
 #### :dizzy: Latest projects
@@ -79,7 +79,7 @@ Stars: 0
 
 #### 🔨 Last Pull Requests
 
-- [Update readme-scribe.yml](https://github.com/4ndr0666/4ndr0666-Scripts/pull/14) on [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) (3 days ago)
+- [Update readme-scribe.yml](https://github.com/4ndr0666/4ndr0666-Scripts/pull/14) on [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) (4 days ago)
 - [updated pagetual](https://github.com/4ndr0666/UserScripts/pull/8) on [4ndr0666/UserScripts](https://github.com/4ndr0666/UserScripts) (1 month ago)
 - [update](https://github.com/hoothin/UserScripts/pull/395) on [hoothin/UserScripts](https://github.com/hoothin/UserScripts) (1 month ago)
 - [V1.0](https://github.com/hoothin/UserScripts/pull/394) on [hoothin/UserScripts](https://github.com/hoothin/UserScripts) (1 month ago)
@@ -100,7 +100,7 @@ Stars: 0
 
 #### ⭐ Recent Stars
 
-- [luisbocanegra/kde-material-you-colors](https://github.com/luisbocanegra/kde-material-you-colors) - Automatic Material You Colors Generator from your wallpaper for the Plasma Desktop (3 days ago)
+- [luisbocanegra/kde-material-you-colors](https://github.com/luisbocanegra/kde-material-you-colors) - Automatic Material You Colors Generator from your wallpaper for the Plasma Desktop (4 days ago)
 - [netbootxyz/netboot.xyz-custom](https://github.com/netbootxyz/netboot.xyz-custom) - Create your own custom github menu for netboot.xyz (1 week ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
 - [ubergeek42/weechat-android](https://github.com/ubergeek42/weechat-android) - Simple Weechat-Relay Android Client (1 week ago)
