@@ -1,16 +1,14 @@
 name: Update README
 
 on:
-  push:
-  schedule:
-    - cron: "0 */1 * * *"
+  push:  # Triggered by any push to the repository
 
 jobs:
   markscribe:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v3  # Use major version to ensure latest stable version
 
       - uses: muesli/readme-scribe@v0.1
         env:
