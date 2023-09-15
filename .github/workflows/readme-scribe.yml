@@ -2,19 +2,18 @@ name: Update README
 
 on:
   push:
-    paths:
-      - 'templates/README.md.tpl'  # This ensures the workflow runs only when this specific file is changed
+  schedule:
+    - cron: "0 */1 * * *"
 
 jobs:
   markscribe:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v4  
+      - uses: actions/checkout@v4
 
       - uses: muesli/readme-scribe@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
@@ -33,3 +32,4 @@ jobs:
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
+          
