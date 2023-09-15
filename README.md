@@ -2,10 +2,10 @@
 
 - [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - Collection of transcripts, scripts and tools. (1 day ago)
 - [4ndr0666/factory-reset](https://github.com/4ndr0666/factory-reset) - for compare.sh (1 day ago)
+- [4ndr0666/bootfix.sh](https://github.com/4ndr0666/bootfix.sh) - Tools for boot repair (1 day ago)
 - [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - My Scripts (2 days ago)
-- [4ndr0666/fixboot](https://github.com/4ndr0666/fixboot) - Tools for boot repair (3 days ago)
-- [4ndr0666/autojdownload](https://github.com/4ndr0666/autojdownload) - Workflow for Jdownloader that scrapes multiple links from a given site by hoster or extension. (4 months ago)
 - [4ndr0666/FFmpeg](https://github.com/4ndr0666/FFmpeg) - This custom FFmpeg upscaling project aims to provide an easy-to-use solution for upscaling videos. By utilizing a Docker container, we streamline the installation and setup process, making it more accessible for users on different platforms. This project is designed for users who want to enhance the quality of their videos using FFmpeg. (4 months ago)
+- [4ndr0666/autojdownload](https://github.com/4ndr0666/autojdownload) - Workflow for Jdownloader that scrapes multiple links from a given site by hoster or extension. (4 months ago)
 - [4ndr0666/5cripts_in_progress](https://github.com/4ndr0666/5cripts_in_progress) - scripts im working on (4 months ago)
 - [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - 4ndr0666 Dotfiles (5 months ago)
 - [4ndr0666/KDE-html-clock](https://github.com/4ndr0666/KDE-html-clock) -  (7 months ago)
@@ -13,7 +13,7 @@
 
 #### :dizzy: Latest projects
 
-- [4ndr0666/fixboot](https://github.com/4ndr0666/fixboot) - Tools for boot repair
+- [4ndr0666/bootfix.sh](https://github.com/4ndr0666/bootfix.sh) - Tools for boot repair
 - [4ndr0666/autojdownload](https://github.com/4ndr0666/autojdownload) - Workflow for Jdownloader that scrapes multiple links from a given site by hoster or extension.
 - [4ndr0666/FFmpeg](https://github.com/4ndr0666/FFmpeg) - This custom FFmpeg upscaling project aims to provide an easy-to-use solution for upscaling videos. By utilizing a Docker container, we streamline the installation and setup process, making it more accessible for users on different platforms. This project is designed for users who want to enhance the quality of their videos using FFmpeg.
 - [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - Collection of transcripts, scripts and tools.
@@ -26,9 +26,9 @@
 
 ### :boom:  Latest Repos
 
-Name: 4ndr0666/fixboot
+Name: 4ndr0666/bootfix.sh
 Description: Tools for boot repair
-URL: https://github.com/4ndr0666/fixboot)
+URL: https://github.com/4ndr0666/bootfix.sh)
 Stars: 0
 
 Name: 4ndr0666/autojdownload
