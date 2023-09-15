@@ -119,4 +119,5 @@ Stars: 0
 - [poprunner88](https://github.com/poprunner88)
 - [SPSEBASTIAAN](https://github.com/SPSEBASTIAAN)
 
+[![Update README](https://github.com/4ndr0666/4ndr0666/actions/workflows/readme-scribe.yml/badge.svg)](https://github.com/4ndr0666/4ndr0666/actions/workflows/readme-scribe.yml)
 
