@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4  
 
-      - uses: muesli/readme-scribe@main
+      - uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
