@@ -10,9 +10,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3  # Updated to v3
+      - uses: actions/checkout@v4  
 
-      - uses: muesli/readme-scribe@v0.1
+      - uses: muesli/readme-scribe@Master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -24,7 +24,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           commit_message: Update generated README
-          branch: masterin  # Ensure this matches your default branch name
+          branch: main  # Ensure this matches your default branch name
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
