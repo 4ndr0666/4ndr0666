@@ -1,12 +1,12 @@
 ### :skull:  Latest Repos
 
-- https://github.com/4ndr0666/bootfix.sh
+- [4ndr0666/bootfix.sh](https://github.com/4ndr0666/bootfix.sh)
 
-- https://github.com/4ndr0666/autojdownload
+- [4ndr0666/autojdownload](https://github.com/4ndr0666/autojdownload)
 
-- https://github.com/4ndr0666/FFmpeg
+- [4ndr0666/FFmpeg](https://github.com/4ndr0666/FFmpeg)
 
-- https://github.com/4ndr0666/4ndr0site
+- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site)
 
 
 #### ⭐ Recent Stars
