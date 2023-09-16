@@ -11,12 +11,12 @@
 
 #### ⭐ Recent Stars
 
-- [muesli/muesli] - (1 day ago)
-- [meganz/MEGAcmd] - (3 days ago)
-- [openai/plugins-quickstart] - (4 days ago)
-- [larsmagne/mplayer] - (1 week ago)
-- [honestbleeps/Reddit-Enhancement-Suite] - (1 week ago)
-- [mtorromeo/r8168] - (1 week ago)
+- [My secret muesli repo](https://github.com/muesli/muesli) - (1 day ago)
+- [Command Line Interactive and Scriptable Application to access MEGA](https://github.com/meganz/MEGAcmd) - (3 days ago)
+- [Get a ChatGPT plugin up and running in under 5 minutes!](https://github.com/openai/plugins-quickstart) - (4 days ago)
+- [Private extensions to mplayer](https://github.com/larsmagne/mplayer) - (1 week ago)
+- [Reddit Enhancement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - (1 week ago)
+- [Linux device driver for Realtek Ethernet controllers (unofficial mirror)](https://github.com/mtorromeo/r8168) - (1 week ago)
 
 #### :boom: Latest Gists
 
