@@ -5,7 +5,7 @@
 
 #### ⭐ Recent Stars
 {{range recentStars 6}}
-- [{{.Repo.Name}}]({{.URL}}) - ({{humanize .StarredAt}})
+- [{{.Repo.Name}}] - ({{humanize .StarredAt}})
 {{- end}}
 
 #### :boom: Latest Gists
