@@ -1,6 +1,6 @@
 ### :skull:  Latest Repos
 {{range recentRepos 4}}
-- {{.URL}}
+- [{{.Name}}]({{.URL}})
 {{end}}
 
 #### ⭐ Recent Stars
