@@ -11,12 +11,12 @@
 
 #### ⭐ Recent Stars
 
-- [muesli/muesli](https://github.com/muesli/muesli) - (1 day ago)
-- [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd) - (3 days ago)
-- [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - (4 days ago)
-- [larsmagne/mplayer](https://github.com/larsmagne/mplayer) - (1 week ago)
-- [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - (1 week ago)
-- [mtorromeo/r8168](https://github.com/mtorromeo/r8168) - (1 week ago)
+- [muesli/muesli] - (1 day ago)
+- [meganz/MEGAcmd] - (3 days ago)
+- [openai/plugins-quickstart] - (4 days ago)
+- [larsmagne/mplayer] - (1 week ago)
+- [honestbleeps/Reddit-Enhancement-Suite] - (1 week ago)
+- [mtorromeo/r8168] - (1 week ago)
 
 #### :boom: Latest Gists
 
