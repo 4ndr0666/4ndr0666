@@ -1,11 +1,11 @@
 ### :skull:  Latest Repos
-{{range recentRepos 10}}
+{{range recentRepos 4}}
 Name: {{.Name}}
 URL: {{.URL}})
 {{end}}
 
 #### ⭐ Recent Stars
-{{range recentStars 10}}
+{{range recentStars 6}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
