@@ -3,20 +3,14 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-#### :skull: Currently
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
-### :boom:  Latest Repos
+### :skull:  Latest Repos
 {{range recentRepos 10}}
 Name: {{.Name}}
-Description: {{.Description}}
 URL: {{.URL}})
-Stars: {{.Stargazers}}
+When: {{humanize .OccurredAt}}
 {{end}}
 
-#### 📓 Latest Gists
+#### :boom: Latest Gists
 {{range gists 5}}
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
