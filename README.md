@@ -1,26 +1,22 @@
 ### :skull:  Latest Repos
 
-Name: 4ndr0666/bootfix.sh
 URL: https://github.com/4ndr0666/bootfix.sh)
 
-Name: 4ndr0666/autojdownload
 URL: https://github.com/4ndr0666/autojdownload)
 
-Name: 4ndr0666/FFmpeg
 URL: https://github.com/4ndr0666/FFmpeg)
 
-Name: 4ndr0666/4ndr0site
 URL: https://github.com/4ndr0666/4ndr0site)
 
 
 #### ⭐ Recent Stars
 
-- [muesli/muesli](https://github.com/muesli/muesli) - My secret muesli repo (1 day ago)
-- [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd) - Command Line Interactive and Scriptable Application to access MEGA (3 days ago)
-- [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes! (4 days ago)
-- [larsmagne/mplayer](https://github.com/larsmagne/mplayer) - Private extensions to mplayer (1 week ago)
-- [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite (1 week ago)
-- [mtorromeo/r8168](https://github.com/mtorromeo/r8168) - Linux device driver for Realtek Ethernet controllers (unofficial mirror) (1 week ago)
+- [muesli/muesli](https://github.com/muesli/muesli) - (1 day ago)
+- [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd) - (3 days ago)
+- [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - (4 days ago)
+- [larsmagne/mplayer](https://github.com/larsmagne/mplayer) - (1 week ago)
+- [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - (1 week ago)
+- [mtorromeo/r8168](https://github.com/mtorromeo/r8168) - (1 week ago)
 
 #### :boom: Latest Gists
 
