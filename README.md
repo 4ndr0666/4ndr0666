@@ -12,24 +12,6 @@ URL: https://github.com/4ndr0666/FFmpeg)
 Name: 4ndr0666/4ndr0site
 URL: https://github.com/4ndr0666/4ndr0site)
 
-Name: 4ndr0666/factory-reset
-URL: https://github.com/4ndr0666/factory-reset)
-
-Name: 4ndr0666/KDE-html-clock
-URL: https://github.com/4ndr0666/KDE-html-clock)
-
-Name: 4ndr0666/dotfiles
-URL: https://github.com/4ndr0666/dotfiles)
-
-Name: 4ndr0666/5cripts_in_progress
-URL: https://github.com/4ndr0666/5cripts_in_progress)
-
-Name: 4ndr0666/My-appimages
-URL: https://github.com/4ndr0666/My-appimages)
-
-Name: 4ndr0666/4ndr0666-Scripts
-URL: https://github.com/4ndr0666/4ndr0666-Scripts)
-
 
 #### ⭐ Recent Stars
 
@@ -39,10 +21,6 @@ URL: https://github.com/4ndr0666/4ndr0666-Scripts)
 - [larsmagne/mplayer](https://github.com/larsmagne/mplayer) - Private extensions to mplayer (1 week ago)
 - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite (1 week ago)
 - [mtorromeo/r8168](https://github.com/mtorromeo/r8168) - Linux device driver for Realtek Ethernet controllers (unofficial mirror) (1 week ago)
-- [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar! (2 weeks ago)
-- [Mabox-Linux/mabox-docs](https://github.com/Mabox-Linux/mabox-docs) - Mabox Linux manual https://manual.maboxlinux.org/ (2 weeks ago)
-- [luisbocanegra/kde-material-you-colors](https://github.com/luisbocanegra/kde-material-you-colors) - Automatic Material You Colors Generator from your wallpaper for the Plasma Desktop (4 weeks ago)
-- [netbootxyz/netboot.xyz-custom](https://github.com/netbootxyz/netboot.xyz-custom) - Create your own custom github menu for netboot.xyz (1 month ago)
 
 #### :boom: Latest Gists
 
