@@ -1,11 +1,11 @@
 ### :skull:  Latest Repos
 {{range recentRepos 4}}
-- [{{.Name}}]({{.URL}})
+- [({{.URL}})]
 {{end}}
 
 #### ⭐ Recent Stars
 {{range recentStars 6}}
-- [{{.Repo.Description}}]({{.Repo.URL}}) - ({{humanize .StarredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}) - ({{humanize .StarredAt}})
 {{- end}}
 
 #### :boom: Latest Gists
