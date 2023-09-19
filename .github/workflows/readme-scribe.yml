@@ -16,6 +16,9 @@ jobs:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
+      - name: Post-process README
+        run: sed -i 's/\[4ndr0666\/\([^]]*\)\]/[\1]/g' README.md
+
       - uses: actions/upload-artifact@master
         with:
           name: README.md
