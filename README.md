@@ -11,7 +11,7 @@
 - [SysAdmin Commands](https://gist.github.com/cc2c3e025404fd8c30ffa4bbdf21b26f) - (2 months ago)
 - [Regexp to find HQ videos from reddit](https://gist.github.com/17861fde61b7e817543c68b552f1658c) - (2 months ago)
 
-#### 🌟 Stars
+#### 🌟 Stars (https://github.com/4ndr0666?tab=stars)
 
 - [muesli/muesli](https://github.com/muesli/muesli) - (today)
 - [actions-marketplace-validations/muesli_readme-scribe](https://github.com/actions-marketplace-validations/muesli_readme-scribe) - (today)
