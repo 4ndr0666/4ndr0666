@@ -8,7 +8,7 @@
 - [{{.Description}}]({{.URL}}) - ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 🌟 ![Stars](https://github.com/4ndr0666?tab=stars)
+#### 🌟 ![Stars](https://github.com/4ndr0666/nas/blob/main/SVG/star.svg)
 {{range recentStars 6}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - ({{humanize .StarredAt}})
 {{- end}}
