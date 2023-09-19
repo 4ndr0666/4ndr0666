@@ -11,12 +11,12 @@
 
 #### ⭐ Recent Stars
 
+- [actions-marketplace-validations/muesli_readme-scribe](https://github.com/actions-marketplace-validations/muesli_readme-scribe) - (today)
 - [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd) - (6 days ago)
 - [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - (1 week ago)
 - [larsmagne/mplayer](https://github.com/larsmagne/mplayer) - (1 week ago)
 - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - (1 week ago)
 - [mtorromeo/r8168](https://github.com/mtorromeo/r8168) - (2 weeks ago)
-- [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - (2 weeks ago)
 
 #### :boom: Latest Gists
 
