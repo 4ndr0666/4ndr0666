@@ -1,19 +1,19 @@
-#### 💀 Latest Activity
+#### 💀 History
 {{range recentContributions 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🌟 Recent Stars
+#### ⚡ Gists
+{{range gists 4}}
+- [{{.Description}}]({{.URL}}) - ({{humanize .CreatedAt}})
+{{- end}}
+
+#### 🌟 Stars
 {{range recentStars 6}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - ({{humanize .StarredAt}})
 {{- end}}
 
-#### ⚡ Latest Gists
-{{range gists 4}}
-- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-#### 📌 Usefull Links
+#### 📌 Links
 
 - Gists: https://gist.github.com/4ndr0666
 - IDEs: https://github.com/styfle/awesome-online-ide
