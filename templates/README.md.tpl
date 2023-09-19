@@ -1,6 +1,6 @@
 #### 💀 History
 {{range recentContributions 3}}
-- [{{index (split "/" .Repo.Name) 1}}]({{.Repo.URL}}) - ({{humanize .OccurredAt}})
+- [{{.Repo.Name | repoNameOnly}}]({{.Repo.URL}}) - ({{humanize .OccurredAt}})
 {{- end}}
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
