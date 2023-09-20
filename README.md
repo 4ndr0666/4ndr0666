@@ -13,12 +13,12 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
-- [muesli/muesli](https://github.com/muesli/muesli) - (1 day ago)
-- [actions-marketplace-validations/muesli_readme-scribe](https://github.com/actions-marketplace-validations/muesli_readme-scribe) - (1 day ago)
 - [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd) - (1 week ago)
 - [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - (1 week ago)
 - [larsmagne/mplayer](https://github.com/larsmagne/mplayer) - (1 week ago)
 - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - (1 week ago)
+- [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - (2 weeks ago)
+- [Mabox-Linux/mabox-docs](https://github.com/Mabox-Linux/mabox-docs) - (2 weeks ago)
 
 #### 📌 Links
 
@@ -29,6 +29,7 @@
 - [IDEs](https://github.com/styfle/awesome-online-ide)
 - [Json2pretty](https://www.json2pretty.com)
 - [RegExp Tester](https://iblogbox.com/devtools/regexp)
+- [Edit](https://github.com/4ndr0666/4ndr0666/blob/master/templates/README.md.tpl)
 
 ![Update README](https://github.com/4ndr0666/4ndr0666/actions/workflows/readme-scribe.yml/badge.svg)
 
