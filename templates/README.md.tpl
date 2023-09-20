@@ -22,6 +22,7 @@
 - [IDEs](https://github.com/styfle/awesome-online-ide)
 - [Json2pretty](https://www.json2pretty.com)
 - [RegExp Tester](https://iblogbox.com/devtools/regexp)
+- [Edit](https://github.com/4ndr0666/4ndr0666/blob/master/templates/README.md.tpl)
 
 ![Update README](https://github.com/4ndr0666/4ndr0666/actions/workflows/readme-scribe.yml/badge.svg)
 <!-- comments will be preserved -->
