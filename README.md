@@ -13,12 +13,12 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
+- [philc/vimium](https://github.com/philc/vimium) - (today)
 - [u8sand/Baka-MPlayer](https://github.com/u8sand/Baka-MPlayer) - (2 days ago)
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - (2 days ago)
 - [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd) - (1 week ago)
 - [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - (1 week ago)
 - [larsmagne/mplayer](https://github.com/larsmagne/mplayer) - (2 weeks ago)
-- [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - (2 weeks ago)
 
 #### 📌 Links
 
