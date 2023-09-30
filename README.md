@@ -1,8 +1,8 @@
 #### 💀 History
 
 - [4ndr0666/Segmenter](https://github.com/4ndr0666/Segmenter) - (today)
+- [4ndr0666/Vidscale](https://github.com/4ndr0666/Vidscale) - (today)
 - [4ndr0666/ChatGPT-Cloud](https://github.com/4ndr0666/ChatGPT-Cloud) - (1 day ago)
-- [4ndr0666/Gettyscrape](https://github.com/4ndr0666/Gettyscrape) - (1 day ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
