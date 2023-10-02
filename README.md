@@ -1,8 +1,8 @@
 #### 💀 History
 
-- [4ndr0666/5cripts_in_progress](https://github.com/4ndr0666/5cripts_in_progress) - (today)
-- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (today)
-- [4ndr0666/Segmenter](https://github.com/4ndr0666/Segmenter) - (1 day ago)
+- [4ndr0666/5cripts_in_progress](https://github.com/4ndr0666/5cripts_in_progress) - (1 day ago)
+- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (1 day ago)
+- [4ndr0666/Segmenter](https://github.com/4ndr0666/Segmenter) - (2 days ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
@@ -13,12 +13,12 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
+- [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - (today)
 - [philc/vimium](https://github.com/philc/vimium) - (1 week ago)
 - [u8sand/Baka-MPlayer](https://github.com/u8sand/Baka-MPlayer) - (1 week ago)
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - (1 week ago)
 - [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd) - (2 weeks ago)
 - [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - (2 weeks ago)
-- [larsmagne/mplayer](https://github.com/larsmagne/mplayer) - (3 weeks ago)
 
 #### 📌 Links
 
