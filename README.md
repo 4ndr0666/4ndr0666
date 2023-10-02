@@ -13,12 +13,12 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
+- [hungsu/vileplume-obsidian](https://github.com/hungsu/vileplume-obsidian) - (today)
+- [cannibalox/ono-sendai_obsdn](https://github.com/cannibalox/ono-sendai_obsdn) - (today)
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - (today)
 - [philc/vimium](https://github.com/philc/vimium) - (1 week ago)
 - [u8sand/Baka-MPlayer](https://github.com/u8sand/Baka-MPlayer) - (1 week ago)
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - (1 week ago)
-- [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd) - (2 weeks ago)
-- [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - (2 weeks ago)
 
 #### 📌 Links
 
