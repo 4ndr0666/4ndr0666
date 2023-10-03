@@ -1,8 +1,8 @@
 #### 💀 History
 
-- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (today)
-- [4ndr0666/5cripts_in_progress](https://github.com/4ndr0666/5cripts_in_progress) - (1 day ago)
-- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (1 day ago)
+- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (1 day ago)
+- [4ndr0666/5cripts_in_progress](https://github.com/4ndr0666/5cripts_in_progress) - (2 days ago)
+- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (2 days ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
@@ -13,9 +13,9 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
-- [hungsu/vileplume-obsidian](https://github.com/hungsu/vileplume-obsidian) - (today)
-- [cannibalox/ono-sendai_obsdn](https://github.com/cannibalox/ono-sendai_obsdn) - (today)
-- [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - (today)
+- [hungsu/vileplume-obsidian](https://github.com/hungsu/vileplume-obsidian) - (1 day ago)
+- [cannibalox/ono-sendai_obsdn](https://github.com/cannibalox/ono-sendai_obsdn) - (1 day ago)
+- [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - (1 day ago)
 - [philc/vimium](https://github.com/philc/vimium) - (1 week ago)
 - [u8sand/Baka-MPlayer](https://github.com/u8sand/Baka-MPlayer) - (1 week ago)
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - (1 week ago)
