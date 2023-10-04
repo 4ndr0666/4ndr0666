@@ -13,12 +13,12 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
+- [navchandar/imgur-hosted-reddit-posted-downloader](https://github.com/navchandar/imgur-hosted-reddit-posted-downloader) - (today)
+- [navchandar/standalone_scripts](https://github.com/navchandar/standalone_scripts) - (today)
 - [hungsu/vileplume-obsidian](https://github.com/hungsu/vileplume-obsidian) - (2 days ago)
 - [cannibalox/ono-sendai_obsdn](https://github.com/cannibalox/ono-sendai_obsdn) - (2 days ago)
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - (2 days ago)
 - [philc/vimium](https://github.com/philc/vimium) - (1 week ago)
-- [u8sand/Baka-MPlayer](https://github.com/u8sand/Baka-MPlayer) - (1 week ago)
-- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - (1 week ago)
 
 #### 📌 Links
 
