@@ -13,12 +13,12 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
+- [jerone/UserScripts](https://github.com/jerone/UserScripts) - (today)
 - [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - (today)
 - [openai/whisper](https://github.com/openai/whisper) - (today)
 - [ArtexJay/Obsidian-CyberGlow](https://github.com/ArtexJay/Obsidian-CyberGlow) - (today)
 - [bramses/chatgpt-md](https://github.com/bramses/chatgpt-md) - (today)
 - [bramses/chatgpt-md-templates](https://github.com/bramses/chatgpt-md-templates) - (today)
-- [Jules-WinnfieldX/CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader) - (2 days ago)
 
 #### 📌 Links
 
