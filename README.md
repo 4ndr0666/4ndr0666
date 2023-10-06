@@ -1,8 +1,8 @@
 #### 💀 History
 
+- [4ndr0666/ChatGPT-Cloud](https://github.com/4ndr0666/ChatGPT-Cloud) - (1 day ago)
 - [4ndr0666/nas](https://github.com/4ndr0666/nas) - (3 days ago)
 - [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (4 days ago)
-- [4ndr0666/5cripts_in_progress](https://github.com/4ndr0666/5cripts_in_progress) - (5 days ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
@@ -13,12 +13,12 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
+- [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - (today)
+- [openai/whisper](https://github.com/openai/whisper) - (today)
 - [ArtexJay/Obsidian-CyberGlow](https://github.com/ArtexJay/Obsidian-CyberGlow) - (today)
 - [bramses/chatgpt-md](https://github.com/bramses/chatgpt-md) - (today)
 - [bramses/chatgpt-md-templates](https://github.com/bramses/chatgpt-md-templates) - (today)
 - [Jules-WinnfieldX/CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader) - (2 days ago)
-- [navchandar/imgur-hosted-reddit-posted-downloader](https://github.com/navchandar/imgur-hosted-reddit-posted-downloader) - (2 days ago)
-- [navchandar/standalone_scripts](https://github.com/navchandar/standalone_scripts) - (2 days ago)
 
 #### 📌 Links
 
