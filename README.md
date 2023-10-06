@@ -13,12 +13,12 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
+- [ArtexJay/Obsidian-CyberGlow](https://github.com/ArtexJay/Obsidian-CyberGlow) - (today)
+- [bramses/chatgpt-md](https://github.com/bramses/chatgpt-md) - (today)
+- [bramses/chatgpt-md-templates](https://github.com/bramses/chatgpt-md-templates) - (today)
 - [Jules-WinnfieldX/CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader) - (2 days ago)
 - [navchandar/imgur-hosted-reddit-posted-downloader](https://github.com/navchandar/imgur-hosted-reddit-posted-downloader) - (2 days ago)
 - [navchandar/standalone_scripts](https://github.com/navchandar/standalone_scripts) - (2 days ago)
-- [hungsu/vileplume-obsidian](https://github.com/hungsu/vileplume-obsidian) - (4 days ago)
-- [cannibalox/ono-sendai_obsdn](https://github.com/cannibalox/ono-sendai_obsdn) - (4 days ago)
-- [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - (4 days ago)
 
 #### 📌 Links
 
