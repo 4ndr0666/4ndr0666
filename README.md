@@ -1,24 +1,24 @@
 #### 💀 History
 
-- [4ndr0666/ChatGPT-Cloud](https://github.com/4ndr0666/ChatGPT-Cloud) - (1 day ago)
-- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (3 days ago)
-- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (4 days ago)
+- [4ndr0666/ChatGPT-Cloud](https://github.com/4ndr0666/ChatGPT-Cloud) - (2 days ago)
+- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (4 days ago)
+- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (5 days ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
-- [ChatGPT README.md template](https://gist.github.com/4544fdae1dfd8d364821db23bd63dd7f) - (1 week ago)
+- [ChatGPT README.md template](https://gist.github.com/4544fdae1dfd8d364821db23bd63dd7f) - (2 weeks ago)
 - [Standardized templates to be used for code segments. ](https://gist.github.com/814e30f80382ca7e6932133278642180) - (2 weeks ago)
 - [Wrapper for backups using rsync](https://gist.github.com/3362509f90976becb3b1442c29ae6117) - (3 weeks ago)
 - [Mpv config](https://gist.github.com/3b374e66eeb82b8d049b9fb70c5f2b16) - (2 months ago)
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
-- [jerone/UserScripts](https://github.com/jerone/UserScripts) - (today)
-- [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - (today)
-- [openai/whisper](https://github.com/openai/whisper) - (today)
-- [ArtexJay/Obsidian-CyberGlow](https://github.com/ArtexJay/Obsidian-CyberGlow) - (today)
-- [bramses/chatgpt-md](https://github.com/bramses/chatgpt-md) - (today)
-- [bramses/chatgpt-md-templates](https://github.com/bramses/chatgpt-md-templates) - (today)
+- [jerone/UserScripts](https://github.com/jerone/UserScripts) - (1 day ago)
+- [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - (1 day ago)
+- [openai/whisper](https://github.com/openai/whisper) - (1 day ago)
+- [ArtexJay/Obsidian-CyberGlow](https://github.com/ArtexJay/Obsidian-CyberGlow) - (1 day ago)
+- [bramses/chatgpt-md](https://github.com/bramses/chatgpt-md) - (1 day ago)
+- [bramses/chatgpt-md-templates](https://github.com/bramses/chatgpt-md-templates) - (1 day ago)
 
 #### 📌 Links
 
