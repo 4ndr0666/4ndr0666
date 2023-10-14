@@ -1,8 +1,8 @@
 #### 💀 History
 
+- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (today)
 - [4ndr0666/5cripts_in_progress](https://github.com/4ndr0666/5cripts_in_progress) - (1 day ago)
 - [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (3 days ago)
-- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (3 days ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
