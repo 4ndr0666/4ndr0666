@@ -1,14 +1,14 @@
 #### 💀 History
 
-- [4ndr0666/5cripts_in_progress](https://github.com/4ndr0666/5cripts_in_progress) - (today)
-- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (2 days ago)
-- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (2 days ago)
+- [4ndr0666/5cripts_in_progress](https://github.com/4ndr0666/5cripts_in_progress) - (1 day ago)
+- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (3 days ago)
+- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (3 days ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
-- [ChatGPT README.md template](https://gist.github.com/4544fdae1dfd8d364821db23bd63dd7f) - (2 weeks ago)
+- [ChatGPT README.md template](https://gist.github.com/4544fdae1dfd8d364821db23bd63dd7f) - (3 weeks ago)
 - [Standardized templates to be used for code segments. ](https://gist.github.com/814e30f80382ca7e6932133278642180) - (3 weeks ago)
-- [Wrapper for backups using rsync](https://gist.github.com/3362509f90976becb3b1442c29ae6117) - (4 weeks ago)
+- [Wrapper for backups using rsync](https://gist.github.com/3362509f90976becb3b1442c29ae6117) - (1 month ago)
 - [Mpv config](https://gist.github.com/3b374e66eeb82b8d049b9fb70c5f2b16) - (2 months ago)
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
