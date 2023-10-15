@@ -1,8 +1,8 @@
 #### 💀 History
 
-- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (today)
-- [4ndr0666/5cripts_in_progress](https://github.com/4ndr0666/5cripts_in_progress) - (1 day ago)
-- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (3 days ago)
+- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (1 day ago)
+- [4ndr0666/5cripts_in_progress](https://github.com/4ndr0666/5cripts_in_progress) - (2 days ago)
+- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (4 days ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
@@ -13,9 +13,9 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
-- [droserasprout/pacman-fix-permissions](https://github.com/droserasprout/pacman-fix-permissions) - (today)
-- [magicoflolis/Userscript-Plus](https://github.com/magicoflolis/Userscript-Plus) - (today)
-- [jae-jae/Userscript-Plus](https://github.com/jae-jae/Userscript-Plus) - (today)
+- [droserasprout/pacman-fix-permissions](https://github.com/droserasprout/pacman-fix-permissions) - (1 day ago)
+- [magicoflolis/Userscript-Plus](https://github.com/magicoflolis/Userscript-Plus) - (1 day ago)
+- [jae-jae/Userscript-Plus](https://github.com/jae-jae/Userscript-Plus) - (1 day ago)
 - [jerone/UserScripts](https://github.com/jerone/UserScripts) - (1 week ago)
 - [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - (1 week ago)
 - [openai/whisper](https://github.com/openai/whisper) - (1 week ago)
