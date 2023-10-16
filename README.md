@@ -1,8 +1,8 @@
 #### 💀 History
 
-- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (today)
-- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (1 day ago)
-- [4ndr0666/ChatGPT-Cloud](https://github.com/4ndr0666/ChatGPT-Cloud) - (1 day ago)
+- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (1 day ago)
+- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (2 days ago)
+- [4ndr0666/ChatGPT-Cloud](https://github.com/4ndr0666/ChatGPT-Cloud) - (2 days ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
@@ -13,10 +13,10 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
-- [extensionsapp/progre.sh](https://github.com/extensionsapp/progre.sh) - (today)
-- [droserasprout/pacman-fix-permissions](https://github.com/droserasprout/pacman-fix-permissions) - (1 day ago)
-- [magicoflolis/Userscript-Plus](https://github.com/magicoflolis/Userscript-Plus) - (1 day ago)
-- [jae-jae/Userscript-Plus](https://github.com/jae-jae/Userscript-Plus) - (1 day ago)
+- [extensionsapp/progre.sh](https://github.com/extensionsapp/progre.sh) - (1 day ago)
+- [droserasprout/pacman-fix-permissions](https://github.com/droserasprout/pacman-fix-permissions) - (2 days ago)
+- [magicoflolis/Userscript-Plus](https://github.com/magicoflolis/Userscript-Plus) - (2 days ago)
+- [jae-jae/Userscript-Plus](https://github.com/jae-jae/Userscript-Plus) - (2 days ago)
 - [jerone/UserScripts](https://github.com/jerone/UserScripts) - (1 week ago)
 - [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - (1 week ago)
 
