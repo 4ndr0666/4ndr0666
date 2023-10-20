@@ -1,24 +1,24 @@
 #### 💀 History
 
-- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (today)
-- [4ndr0666/ChatGPT-Cloud](https://github.com/4ndr0666/ChatGPT-Cloud) - (today)
-- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (today)
+- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (1 day ago)
+- [4ndr0666/ChatGPT-Cloud](https://github.com/4ndr0666/ChatGPT-Cloud) - (1 day ago)
+- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (1 day ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
 - [ChatGPT README.md template](https://gist.github.com/4544fdae1dfd8d364821db23bd63dd7f) - (3 weeks ago)
-- [Standardized templates to be used for code segments. ](https://gist.github.com/814e30f80382ca7e6932133278642180) - (3 weeks ago)
+- [Standardized templates to be used for code segments. ](https://gist.github.com/814e30f80382ca7e6932133278642180) - (4 weeks ago)
 - [Mpv config](https://gist.github.com/3b374e66eeb82b8d049b9fb70c5f2b16) - (2 months ago)
 - [SysAdmin Commands](https://gist.github.com/cc2c3e025404fd8c30ffa4bbdf21b26f) - (3 months ago)
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
-- [extensionsapp/progre.sh](https://github.com/extensionsapp/progre.sh) - (4 days ago)
-- [droserasprout/pacman-fix-permissions](https://github.com/droserasprout/pacman-fix-permissions) - (5 days ago)
-- [magicoflolis/Userscript-Plus](https://github.com/magicoflolis/Userscript-Plus) - (5 days ago)
-- [jae-jae/Userscript-Plus](https://github.com/jae-jae/Userscript-Plus) - (5 days ago)
-- [jerone/UserScripts](https://github.com/jerone/UserScripts) - (1 week ago)
-- [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - (1 week ago)
+- [extensionsapp/progre.sh](https://github.com/extensionsapp/progre.sh) - (5 days ago)
+- [droserasprout/pacman-fix-permissions](https://github.com/droserasprout/pacman-fix-permissions) - (6 days ago)
+- [magicoflolis/Userscript-Plus](https://github.com/magicoflolis/Userscript-Plus) - (6 days ago)
+- [jae-jae/Userscript-Plus](https://github.com/jae-jae/Userscript-Plus) - (6 days ago)
+- [jerone/UserScripts](https://github.com/jerone/UserScripts) - (2 weeks ago)
+- [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - (2 weeks ago)
 
 #### 📌 Links
 
