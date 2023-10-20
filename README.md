@@ -1,7 +1,7 @@
 #### 💀 History
 
-- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (1 day ago)
-- [4ndr0666/ChatGPT-Cloud](https://github.com/4ndr0666/ChatGPT-Cloud) - (1 day ago)
+- [4ndr0666/factory-reset](https://github.com/4ndr0666/factory-reset) - (today)
+- [4ndr0666/ChatGPT-Cloud](https://github.com/4ndr0666/ChatGPT-Cloud) - (today)
 - [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (1 day ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
@@ -13,12 +13,12 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
+- [GrowingGit/GitHub-English-Top-Charts](https://github.com/GrowingGit/GitHub-English-Top-Charts) - (today)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - (today)
 - [extensionsapp/progre.sh](https://github.com/extensionsapp/progre.sh) - (5 days ago)
 - [droserasprout/pacman-fix-permissions](https://github.com/droserasprout/pacman-fix-permissions) - (6 days ago)
 - [magicoflolis/Userscript-Plus](https://github.com/magicoflolis/Userscript-Plus) - (6 days ago)
 - [jae-jae/Userscript-Plus](https://github.com/jae-jae/Userscript-Plus) - (6 days ago)
-- [jerone/UserScripts](https://github.com/jerone/UserScripts) - (2 weeks ago)
-- [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - (2 weeks ago)
 
 #### 📌 Links
 
