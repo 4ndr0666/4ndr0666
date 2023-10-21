@@ -13,12 +13,12 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
+- [m1kethai/StretchGPT-Userstyle](https://github.com/m1kethai/StretchGPT-Userstyle) - (today)
+- [userstyles-world/userstyles.world](https://github.com/userstyles-world/userstyles.world) - (today)
 - [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - (1 day ago)
 - [GrowingGit/GitHub-English-Top-Charts](https://github.com/GrowingGit/GitHub-English-Top-Charts) - (1 day ago)
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - (1 day ago)
 - [extensionsapp/progre.sh](https://github.com/extensionsapp/progre.sh) - (6 days ago)
-- [droserasprout/pacman-fix-permissions](https://github.com/droserasprout/pacman-fix-permissions) - (1 week ago)
-- [magicoflolis/Userscript-Plus](https://github.com/magicoflolis/Userscript-Plus) - (1 week ago)
 
 #### 📌 Links
 
