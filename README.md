@@ -1,8 +1,8 @@
 #### 💀 History
 
-- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (today)
-- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (today)
-- [4ndr0666/Links](https://github.com/4ndr0666/Links) - (today)
+- [4ndr0666/Links](https://github.com/4ndr0666/Links) - (1 day ago)
+- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (1 day ago)
+- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (1 day ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
@@ -13,9 +13,9 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
-- [MauriceConrad/iCloud-API](https://github.com/MauriceConrad/iCloud-API) - (6 days ago)
-- [m1kethai/StretchGPT-Userstyle](https://github.com/m1kethai/StretchGPT-Userstyle) - (6 days ago)
-- [userstyles-world/userstyles.world](https://github.com/userstyles-world/userstyles.world) - (6 days ago)
+- [MauriceConrad/iCloud-API](https://github.com/MauriceConrad/iCloud-API) - (1 week ago)
+- [m1kethai/StretchGPT-Userstyle](https://github.com/m1kethai/StretchGPT-Userstyle) - (1 week ago)
+- [userstyles-world/userstyles.world](https://github.com/userstyles-world/userstyles.world) - (1 week ago)
 - [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - (1 week ago)
 - [GrowingGit/GitHub-English-Top-Charts](https://github.com/GrowingGit/GitHub-English-Top-Charts) - (1 week ago)
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - (1 week ago)
