@@ -1,8 +1,8 @@
 #### 💀 History
 
-- [4ndr0666/ChatGPT-Cloud](https://github.com/4ndr0666/ChatGPT-Cloud) - (2 days ago)
-- [4ndr0666/Links](https://github.com/4ndr0666/Links) - (3 days ago)
-- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (3 days ago)
+- [4ndr0666/ChatGPT-Cloud](https://github.com/4ndr0666/ChatGPT-Cloud) - (3 days ago)
+- [4ndr0666/Links](https://github.com/4ndr0666/Links) - (4 days ago)
+- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (4 days ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
@@ -13,8 +13,8 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
-- [openwall/john](https://github.com/openwall/john) - (today)
-- [haseeb-heaven/ChatGPT-CodeRunner-Extension](https://github.com/haseeb-heaven/ChatGPT-CodeRunner-Extension) - (1 day ago)
+- [openwall/john](https://github.com/openwall/john) - (1 day ago)
+- [haseeb-heaven/ChatGPT-CodeRunner-Extension](https://github.com/haseeb-heaven/ChatGPT-CodeRunner-Extension) - (2 days ago)
 - [MauriceConrad/iCloud-API](https://github.com/MauriceConrad/iCloud-API) - (1 week ago)
 - [m1kethai/StretchGPT-Userstyle](https://github.com/m1kethai/StretchGPT-Userstyle) - (1 week ago)
 - [userstyles-world/userstyles.world](https://github.com/userstyles-world/userstyles.world) - (1 week ago)
