@@ -13,12 +13,12 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
+- [emanuele-scarsella/vortex-ubuntu-plymouth-theme](https://github.com/emanuele-scarsella/vortex-ubuntu-plymouth-theme) - (today)
 - [openwall/john](https://github.com/openwall/john) - (2 days ago)
 - [haseeb-heaven/ChatGPT-CodeRunner-Extension](https://github.com/haseeb-heaven/ChatGPT-CodeRunner-Extension) - (3 days ago)
 - [MauriceConrad/iCloud-API](https://github.com/MauriceConrad/iCloud-API) - (1 week ago)
 - [m1kethai/StretchGPT-Userstyle](https://github.com/m1kethai/StretchGPT-Userstyle) - (1 week ago)
 - [userstyles-world/userstyles.world](https://github.com/userstyles-world/userstyles.world) - (1 week ago)
-- [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - (1 week ago)
 
 #### 📌 Links
 
