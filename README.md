@@ -1,8 +1,8 @@
 #### 💀 History
 
-- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (today)
-- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (2 days ago)
-- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (3 days ago)
+- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (1 day ago)
+- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (3 days ago)
+- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (4 days ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
@@ -13,12 +13,12 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
-- [remo7777/T-Header](https://github.com/remo7777/T-Header) - (2 days ago)
-- [emanuele-scarsella/vortex-ubuntu-plymouth-theme](https://github.com/emanuele-scarsella/vortex-ubuntu-plymouth-theme) - (2 days ago)
-- [openwall/john](https://github.com/openwall/john) - (4 days ago)
-- [haseeb-heaven/ChatGPT-CodeRunner-Extension](https://github.com/haseeb-heaven/ChatGPT-CodeRunner-Extension) - (5 days ago)
-- [MauriceConrad/iCloud-API](https://github.com/MauriceConrad/iCloud-API) - (1 week ago)
-- [m1kethai/StretchGPT-Userstyle](https://github.com/m1kethai/StretchGPT-Userstyle) - (1 week ago)
+- [remo7777/T-Header](https://github.com/remo7777/T-Header) - (3 days ago)
+- [emanuele-scarsella/vortex-ubuntu-plymouth-theme](https://github.com/emanuele-scarsella/vortex-ubuntu-plymouth-theme) - (3 days ago)
+- [openwall/john](https://github.com/openwall/john) - (5 days ago)
+- [haseeb-heaven/ChatGPT-CodeRunner-Extension](https://github.com/haseeb-heaven/ChatGPT-CodeRunner-Extension) - (6 days ago)
+- [MauriceConrad/iCloud-API](https://github.com/MauriceConrad/iCloud-API) - (2 weeks ago)
+- [m1kethai/StretchGPT-Userstyle](https://github.com/m1kethai/StretchGPT-Userstyle) - (2 weeks ago)
 
 #### 📌 Links
 
