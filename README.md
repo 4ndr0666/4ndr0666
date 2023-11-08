@@ -1,8 +1,8 @@
 #### 💀 History
 
-- [4ndr0666/ChatGPT-Cloud](https://github.com/4ndr0666/ChatGPT-Cloud) - (3 days ago)
-- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (4 days ago)
-- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (6 days ago)
+- [4ndr0666/ChatGPT-Cloud](https://github.com/4ndr0666/ChatGPT-Cloud) - (4 days ago)
+- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (5 days ago)
+- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (1 week ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
@@ -13,8 +13,8 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
-- [remo7777/T-Header](https://github.com/remo7777/T-Header) - (6 days ago)
-- [emanuele-scarsella/vortex-ubuntu-plymouth-theme](https://github.com/emanuele-scarsella/vortex-ubuntu-plymouth-theme) - (6 days ago)
+- [remo7777/T-Header](https://github.com/remo7777/T-Header) - (1 week ago)
+- [emanuele-scarsella/vortex-ubuntu-plymouth-theme](https://github.com/emanuele-scarsella/vortex-ubuntu-plymouth-theme) - (1 week ago)
 - [openwall/john](https://github.com/openwall/john) - (1 week ago)
 - [haseeb-heaven/ChatGPT-CodeRunner-Extension](https://github.com/haseeb-heaven/ChatGPT-CodeRunner-Extension) - (1 week ago)
 - [MauriceConrad/iCloud-API](https://github.com/MauriceConrad/iCloud-API) - (2 weeks ago)
