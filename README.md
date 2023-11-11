@@ -1,7 +1,7 @@
 #### 💀 History
 
-- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (today)
-- [4ndr0666/ChatGPT-Cloud](https://github.com/4ndr0666/ChatGPT-Cloud) - (6 days ago)
+- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (1 day ago)
+- [4ndr0666/ChatGPT-Cloud](https://github.com/4ndr0666/ChatGPT-Cloud) - (1 week ago)
 - [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (1 week ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
@@ -17,8 +17,8 @@
 - [emanuele-scarsella/vortex-ubuntu-plymouth-theme](https://github.com/emanuele-scarsella/vortex-ubuntu-plymouth-theme) - (1 week ago)
 - [openwall/john](https://github.com/openwall/john) - (1 week ago)
 - [haseeb-heaven/ChatGPT-CodeRunner-Extension](https://github.com/haseeb-heaven/ChatGPT-CodeRunner-Extension) - (1 week ago)
-- [MauriceConrad/iCloud-API](https://github.com/MauriceConrad/iCloud-API) - (2 weeks ago)
-- [m1kethai/StretchGPT-Userstyle](https://github.com/m1kethai/StretchGPT-Userstyle) - (2 weeks ago)
+- [MauriceConrad/iCloud-API](https://github.com/MauriceConrad/iCloud-API) - (3 weeks ago)
+- [m1kethai/StretchGPT-Userstyle](https://github.com/m1kethai/StretchGPT-Userstyle) - (3 weeks ago)
 
 #### 📌 Links
 
