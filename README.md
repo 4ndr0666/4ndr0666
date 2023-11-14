@@ -1,6 +1,6 @@
 #### 💀 History
 
-- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (3 days ago)
+- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (4 days ago)
 - [4ndr0666/ChatGPT-Cloud](https://github.com/4ndr0666/ChatGPT-Cloud) - (1 week ago)
 - [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (1 week ago)
 
@@ -9,7 +9,7 @@
 - [ChatGPT README.md template](https://gist.github.com/4544fdae1dfd8d364821db23bd63dd7f) - (1 month ago)
 - [Standardized templates to be used for code segments. ](https://gist.github.com/814e30f80382ca7e6932133278642180) - (1 month ago)
 - [Mpv config](https://gist.github.com/3b374e66eeb82b8d049b9fb70c5f2b16) - (3 months ago)
-- [SysAdmin Commands](https://gist.github.com/cc2c3e025404fd8c30ffa4bbdf21b26f) - (3 months ago)
+- [SysAdmin Commands](https://gist.github.com/cc2c3e025404fd8c30ffa4bbdf21b26f) - (4 months ago)
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
