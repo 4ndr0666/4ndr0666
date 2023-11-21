@@ -6,10 +6,10 @@
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
+- [](https://gist.github.com/cd22ab2bd4f5b4956af3e1f883ca0a60) - (today)
 - [ChatGPT README.md template](https://gist.github.com/4544fdae1dfd8d364821db23bd63dd7f) - (1 month ago)
 - [Standardized templates to be used for code segments. ](https://gist.github.com/814e30f80382ca7e6932133278642180) - (2 months ago)
 - [Mpv config](https://gist.github.com/3b374e66eeb82b8d049b9fb70c5f2b16) - (3 months ago)
-- [SysAdmin Commands](https://gist.github.com/cc2c3e025404fd8c30ffa4bbdf21b26f) - (4 months ago)
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
