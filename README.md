@@ -1,6 +1,6 @@
 #### 💀 History
 
-- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (1 day ago)
+- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (today)
 - [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (1 week ago)
 - [4ndr0666/ChatGPT-Cloud](https://github.com/4ndr0666/ChatGPT-Cloud) - (2 weeks ago)
 
