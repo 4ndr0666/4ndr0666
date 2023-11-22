@@ -1,21 +1,21 @@
 #### 💀 History
 
-- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (today)
-- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (6 days ago)
+- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (1 day ago)
+- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (1 week ago)
 - [4ndr0666/ChatGPT-Cloud](https://github.com/4ndr0666/ChatGPT-Cloud) - (2 weeks ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
-- [](https://gist.github.com/cd22ab2bd4f5b4956af3e1f883ca0a60) - (today)
-- [ChatGPT README.md template](https://gist.github.com/4544fdae1dfd8d364821db23bd63dd7f) - (1 month ago)
+- [](https://gist.github.com/cd22ab2bd4f5b4956af3e1f883ca0a60) - (1 day ago)
+- [ChatGPT README.md template](https://gist.github.com/4544fdae1dfd8d364821db23bd63dd7f) - (2 months ago)
 - [Standardized templates to be used for code segments. ](https://gist.github.com/814e30f80382ca7e6932133278642180) - (2 months ago)
 - [Mpv config](https://gist.github.com/3b374e66eeb82b8d049b9fb70c5f2b16) - (3 months ago)
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
-- [noCaptchaAi/hCaptchaSolver.user.js](https://github.com/noCaptchaAi/hCaptchaSolver.user.js) - (2 days ago)
-- [remo7777/T-Header](https://github.com/remo7777/T-Header) - (2 weeks ago)
-- [emanuele-scarsella/vortex-ubuntu-plymouth-theme](https://github.com/emanuele-scarsella/vortex-ubuntu-plymouth-theme) - (2 weeks ago)
+- [noCaptchaAi/hCaptchaSolver.user.js](https://github.com/noCaptchaAi/hCaptchaSolver.user.js) - (3 days ago)
+- [remo7777/T-Header](https://github.com/remo7777/T-Header) - (3 weeks ago)
+- [emanuele-scarsella/vortex-ubuntu-plymouth-theme](https://github.com/emanuele-scarsella/vortex-ubuntu-plymouth-theme) - (3 weeks ago)
 - [openwall/john](https://github.com/openwall/john) - (3 weeks ago)
 - [haseeb-heaven/ChatGPT-CodeRunner-Extension](https://github.com/haseeb-heaven/ChatGPT-CodeRunner-Extension) - (3 weeks ago)
 - [MauriceConrad/iCloud-API](https://github.com/MauriceConrad/iCloud-API) - (1 month ago)
