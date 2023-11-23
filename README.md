@@ -13,12 +13,12 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
+- [rickellis/Arch-Linux-Install-Guide](https://github.com/rickellis/Arch-Linux-Install-Guide) - (today)
 - [noCaptchaAi/hCaptchaSolver.user.js](https://github.com/noCaptchaAi/hCaptchaSolver.user.js) - (4 days ago)
 - [remo7777/T-Header](https://github.com/remo7777/T-Header) - (3 weeks ago)
 - [emanuele-scarsella/vortex-ubuntu-plymouth-theme](https://github.com/emanuele-scarsella/vortex-ubuntu-plymouth-theme) - (3 weeks ago)
 - [openwall/john](https://github.com/openwall/john) - (3 weeks ago)
 - [haseeb-heaven/ChatGPT-CodeRunner-Extension](https://github.com/haseeb-heaven/ChatGPT-CodeRunner-Extension) - (3 weeks ago)
-- [MauriceConrad/iCloud-API](https://github.com/MauriceConrad/iCloud-API) - (1 month ago)
 
 #### 📌 Links
 
