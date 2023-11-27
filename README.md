@@ -1,8 +1,8 @@
 #### 💀 History
 
-- [4ndr0666/ChatGPT-Cloud](https://github.com/4ndr0666/ChatGPT-Cloud) - (2 days ago)
-- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (4 days ago)
-- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (5 days ago)
+- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (today)
+- [4ndr0666/ChatGPT-Cloud](https://github.com/4ndr0666/ChatGPT-Cloud) - (today)
+- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (1 day ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
