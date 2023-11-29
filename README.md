@@ -1,8 +1,8 @@
 #### 💀 History
 
-- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (1 day ago)
-- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (1 day ago)
-- [4ndr0666/ChatGPT-Cloud](https://github.com/4ndr0666/ChatGPT-Cloud) - (1 day ago)
+- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (2 days ago)
+- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (2 days ago)
+- [4ndr0666/ChatGPT-Cloud](https://github.com/4ndr0666/ChatGPT-Cloud) - (2 days ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
@@ -13,11 +13,11 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
-- [rickellis/Arch-Linux-Install-Guide](https://github.com/rickellis/Arch-Linux-Install-Guide) - (5 days ago)
+- [rickellis/Arch-Linux-Install-Guide](https://github.com/rickellis/Arch-Linux-Install-Guide) - (6 days ago)
 - [noCaptchaAi/hCaptchaSolver.user.js](https://github.com/noCaptchaAi/hCaptchaSolver.user.js) - (1 week ago)
-- [remo7777/T-Header](https://github.com/remo7777/T-Header) - (3 weeks ago)
-- [emanuele-scarsella/vortex-ubuntu-plymouth-theme](https://github.com/emanuele-scarsella/vortex-ubuntu-plymouth-theme) - (3 weeks ago)
-- [openwall/john](https://github.com/openwall/john) - (4 weeks ago)
+- [remo7777/T-Header](https://github.com/remo7777/T-Header) - (4 weeks ago)
+- [emanuele-scarsella/vortex-ubuntu-plymouth-theme](https://github.com/emanuele-scarsella/vortex-ubuntu-plymouth-theme) - (4 weeks ago)
+- [openwall/john](https://github.com/openwall/john) - (1 month ago)
 - [haseeb-heaven/ChatGPT-CodeRunner-Extension](https://github.com/haseeb-heaven/ChatGPT-CodeRunner-Extension) - (1 month ago)
 
 #### 📌 Links
