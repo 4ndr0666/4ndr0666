@@ -1,8 +1,8 @@
 #### 💀 History
 
-- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (today)
-- [4ndr0666/Best-Arch](https://github.com/4ndr0666/Best-Arch) - (1 day ago)
-- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (4 days ago)
+- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (1 day ago)
+- [4ndr0666/Best-Arch](https://github.com/4ndr0666/Best-Arch) - (2 days ago)
+- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (5 days ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
