@@ -1,8 +1,8 @@
 #### 💀 History
 
+- [4ndr0666/cookieeditor](https://github.com/4ndr0666/cookieeditor) - (today)
 - [4ndr0666/Gettyscrape](https://github.com/4ndr0666/Gettyscrape) - (1 day ago)
 - [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (2 days ago)
-- [4ndr0666/Best-Arch](https://github.com/4ndr0666/Best-Arch) - (3 days ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
