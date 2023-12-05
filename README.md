@@ -1,12 +1,12 @@
 #### 💀 History
 
-- [4ndr0666/cookieeditor](https://github.com/4ndr0666/cookieeditor) - (1 day ago)
-- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (1 day ago)
-- [4ndr0666/Gettyscrape](https://github.com/4ndr0666/Gettyscrape) - (2 days ago)
+- [4ndr0666/cookieeditor](https://github.com/4ndr0666/cookieeditor) - (2 days ago)
+- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (2 days ago)
+- [4ndr0666/Gettyscrape](https://github.com/4ndr0666/Gettyscrape) - (3 days ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
-- [](https://gist.github.com/cd22ab2bd4f5b4956af3e1f883ca0a60) - (1 week ago)
+- [](https://gist.github.com/cd22ab2bd4f5b4956af3e1f883ca0a60) - (2 weeks ago)
 - [ChatGPT README.md template](https://gist.github.com/4544fdae1dfd8d364821db23bd63dd7f) - (2 months ago)
 - [Standardized templates to be used for code segments. ](https://gist.github.com/814e30f80382ca7e6932133278642180) - (2 months ago)
 - [Mpv config](https://gist.github.com/3b374e66eeb82b8d049b9fb70c5f2b16) - (4 months ago)
