@@ -1,8 +1,8 @@
 #### 💀 History
 
-- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (1 day ago)
-- [4ndr0666/cookieeditor](https://github.com/4ndr0666/cookieeditor) - (3 days ago)
-- [4ndr0666/Gettyscrape](https://github.com/4ndr0666/Gettyscrape) - (4 days ago)
+- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (2 days ago)
+- [4ndr0666/cookieeditor](https://github.com/4ndr0666/cookieeditor) - (4 days ago)
+- [4ndr0666/Gettyscrape](https://github.com/4ndr0666/Gettyscrape) - (5 days ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
@@ -13,7 +13,7 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
-- [rickellis/Arch-Linux-Install-Guide](https://github.com/rickellis/Arch-Linux-Install-Guide) - (1 week ago)
+- [rickellis/Arch-Linux-Install-Guide](https://github.com/rickellis/Arch-Linux-Install-Guide) - (2 weeks ago)
 - [noCaptchaAi/hCaptchaSolver.user.js](https://github.com/noCaptchaAi/hCaptchaSolver.user.js) - (2 weeks ago)
 - [remo7777/T-Header](https://github.com/remo7777/T-Header) - (1 month ago)
 - [emanuele-scarsella/vortex-ubuntu-plymouth-theme](https://github.com/emanuele-scarsella/vortex-ubuntu-plymouth-theme) - (1 month ago)
