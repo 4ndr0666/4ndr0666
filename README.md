@@ -1,8 +1,8 @@
 #### 💀 History
 
-- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (2 days ago)
-- [4ndr0666/cookieeditor](https://github.com/4ndr0666/cookieeditor) - (4 days ago)
-- [4ndr0666/Gettyscrape](https://github.com/4ndr0666/Gettyscrape) - (5 days ago)
+- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (3 days ago)
+- [4ndr0666/cookieeditor](https://github.com/4ndr0666/cookieeditor) - (5 days ago)
+- [4ndr0666/Gettyscrape](https://github.com/4ndr0666/Gettyscrape) - (6 days ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
