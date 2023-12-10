@@ -1,8 +1,8 @@
 #### 💀 History
 
+- [4ndr0666/Gettyscrape](https://github.com/4ndr0666/Gettyscrape) - (today)
 - [4ndr0666/clean-home](https://github.com/4ndr0666/clean-home) - (1 day ago)
 - [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (5 days ago)
-- [4ndr0666/cookieeditor](https://github.com/4ndr0666/cookieeditor) - (1 week ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
