@@ -1,7 +1,7 @@
 #### 💀 History
 
-- [4ndr0666/Gettyscrape](https://github.com/4ndr0666/Gettyscrape) - (2 days ago)
-- [4ndr0666/clean-home](https://github.com/4ndr0666/clean-home) - (3 days ago)
+- [4ndr0666/Gettyscrape](https://github.com/4ndr0666/Gettyscrape) - (3 days ago)
+- [4ndr0666/clean-home](https://github.com/4ndr0666/clean-home) - (4 days ago)
 - [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (1 week ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
@@ -13,7 +13,7 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
-- [appforma/getty-image-chooser](https://github.com/appforma/getty-image-chooser) - (2 days ago)
+- [appforma/getty-image-chooser](https://github.com/appforma/getty-image-chooser) - (3 days ago)
 - [rickellis/Arch-Linux-Install-Guide](https://github.com/rickellis/Arch-Linux-Install-Guide) - (2 weeks ago)
 - [noCaptchaAi/hCaptchaSolver.user.js](https://github.com/noCaptchaAi/hCaptchaSolver.user.js) - (3 weeks ago)
 - [remo7777/T-Header](https://github.com/remo7777/T-Header) - (1 month ago)
