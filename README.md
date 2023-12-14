@@ -1,8 +1,8 @@
 #### 💀 History
 
-- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (today)
-- [4ndr0666/Gettyscrape](https://github.com/4ndr0666/Gettyscrape) - (3 days ago)
-- [4ndr0666/clean-home](https://github.com/4ndr0666/clean-home) - (4 days ago)
+- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (1 day ago)
+- [4ndr0666/Gettyscrape](https://github.com/4ndr0666/Gettyscrape) - (4 days ago)
+- [4ndr0666/clean-home](https://github.com/4ndr0666/clean-home) - (5 days ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
@@ -13,8 +13,8 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
-- [appforma/getty-image-chooser](https://github.com/appforma/getty-image-chooser) - (3 days ago)
-- [rickellis/Arch-Linux-Install-Guide](https://github.com/rickellis/Arch-Linux-Install-Guide) - (2 weeks ago)
+- [appforma/getty-image-chooser](https://github.com/appforma/getty-image-chooser) - (4 days ago)
+- [rickellis/Arch-Linux-Install-Guide](https://github.com/rickellis/Arch-Linux-Install-Guide) - (3 weeks ago)
 - [noCaptchaAi/hCaptchaSolver.user.js](https://github.com/noCaptchaAi/hCaptchaSolver.user.js) - (3 weeks ago)
 - [remo7777/T-Header](https://github.com/remo7777/T-Header) - (1 month ago)
 - [emanuele-scarsella/vortex-ubuntu-plymouth-theme](https://github.com/emanuele-scarsella/vortex-ubuntu-plymouth-theme) - (1 month ago)
