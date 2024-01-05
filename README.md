@@ -1,24 +1,24 @@
 #### 💀 History
 
-- [4ndr0666/4ndr0666-Scripts](https://github.com/4ndr0666/4ndr0666-Scripts) - (1 day ago)
-- [4ndr0666/Gettyscrape](https://github.com/4ndr0666/Gettyscrape) - (4 days ago)
-- [4ndr0666/clean-home](https://github.com/4ndr0666/clean-home) - (5 days ago)
+- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (today)
+- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (1 day ago)
+- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (2 days ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
-- [](https://gist.github.com/cd22ab2bd4f5b4956af3e1f883ca0a60) - (3 weeks ago)
-- [ChatGPT README.md template](https://gist.github.com/4544fdae1dfd8d364821db23bd63dd7f) - (2 months ago)
-- [Standardized templates to be used for code segments. ](https://gist.github.com/814e30f80382ca7e6932133278642180) - (2 months ago)
-- [Mpv config](https://gist.github.com/3b374e66eeb82b8d049b9fb70c5f2b16) - (4 months ago)
+- [Image search engine collection.](https://gist.github.com/275fe996ff2a5d9bc7619be288c6bac4) - (today)
+- [AI Search Engine Collection](https://gist.github.com/dd70ae0db8d17506ba097704cc17d606) - (today)
+- [](https://gist.github.com/cd22ab2bd4f5b4956af3e1f883ca0a60) - (1 month ago)
+- [ChatGPT README.md template](https://gist.github.com/4544fdae1dfd8d364821db23bd63dd7f) - (3 months ago)
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
-- [appforma/getty-image-chooser](https://github.com/appforma/getty-image-chooser) - (4 days ago)
-- [rickellis/Arch-Linux-Install-Guide](https://github.com/rickellis/Arch-Linux-Install-Guide) - (3 weeks ago)
-- [noCaptchaAi/hCaptchaSolver.user.js](https://github.com/noCaptchaAi/hCaptchaSolver.user.js) - (3 weeks ago)
-- [remo7777/T-Header](https://github.com/remo7777/T-Header) - (1 month ago)
-- [emanuele-scarsella/vortex-ubuntu-plymouth-theme](https://github.com/emanuele-scarsella/vortex-ubuntu-plymouth-theme) - (1 month ago)
-- [openwall/john](https://github.com/openwall/john) - (1 month ago)
+- [iawia002/lux](https://github.com/iawia002/lux) - (today)
+- [iFelix18/Userscripts](https://github.com/iFelix18/Userscripts) - (today)
+- [Semibold/Extensions-Steward](https://github.com/Semibold/Extensions-Steward) - (1 week ago)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - (2 weeks ago)
+- [nokeya/direct-links-out](https://github.com/nokeya/direct-links-out) - (2 weeks ago)
+- [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - (2 weeks ago)
 
 #### 📌 Links
 
