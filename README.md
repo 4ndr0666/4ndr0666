@@ -1,20 +1,20 @@
 #### 💀 History
 
-- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (today)
-- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (1 day ago)
-- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (2 days ago)
+- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (1 day ago)
+- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (2 days ago)
+- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (3 days ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
-- [Image search engine collection.](https://gist.github.com/275fe996ff2a5d9bc7619be288c6bac4) - (today)
-- [AI Search Engine Collection](https://gist.github.com/dd70ae0db8d17506ba097704cc17d606) - (today)
+- [Image search engine collection.](https://gist.github.com/275fe996ff2a5d9bc7619be288c6bac4) - (1 day ago)
+- [AI Search Engine Collection](https://gist.github.com/dd70ae0db8d17506ba097704cc17d606) - (1 day ago)
 - [](https://gist.github.com/cd22ab2bd4f5b4956af3e1f883ca0a60) - (1 month ago)
 - [ChatGPT README.md template](https://gist.github.com/4544fdae1dfd8d364821db23bd63dd7f) - (3 months ago)
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
-- [iawia002/lux](https://github.com/iawia002/lux) - (today)
-- [iFelix18/Userscripts](https://github.com/iFelix18/Userscripts) - (today)
+- [iawia002/lux](https://github.com/iawia002/lux) - (1 day ago)
+- [iFelix18/Userscripts](https://github.com/iFelix18/Userscripts) - (1 day ago)
 - [Semibold/Extensions-Steward](https://github.com/Semibold/Extensions-Steward) - (1 week ago)
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - (2 weeks ago)
 - [nokeya/direct-links-out](https://github.com/nokeya/direct-links-out) - (2 weeks ago)
