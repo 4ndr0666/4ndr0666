@@ -13,12 +13,12 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
+- [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - (today)
 - [iawia002/lux](https://github.com/iawia002/lux) - (4 days ago)
 - [iFelix18/Userscripts](https://github.com/iFelix18/Userscripts) - (4 days ago)
 - [Semibold/Extensions-Steward](https://github.com/Semibold/Extensions-Steward) - (1 week ago)
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - (2 weeks ago)
 - [nokeya/direct-links-out](https://github.com/nokeya/direct-links-out) - (3 weeks ago)
-- [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - (3 weeks ago)
 
 #### 📌 Links
 
