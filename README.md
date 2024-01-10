@@ -1,6 +1,6 @@
 #### 💀 History
 
-- [4ndr0666/Segmenter](https://github.com/4ndr0666/Segmenter) - (2 days ago)
+- [4ndr0666/Segmenter](https://github.com/4ndr0666/Segmenter) - (today)
 - [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (2 days ago)
 - [4ndr0666/scr](https://github.com/4ndr0666/scr) - (4 days ago)
 
