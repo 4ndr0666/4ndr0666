@@ -1,7 +1,7 @@
 #### 💀 History
 
-- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (3 days ago)
-- [4ndr0666/Segmenter](https://github.com/4ndr0666/Segmenter) - (5 days ago)
+- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (4 days ago)
+- [4ndr0666/Segmenter](https://github.com/4ndr0666/Segmenter) - (6 days ago)
 - [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (1 week ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
@@ -13,7 +13,7 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
-- [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - (6 days ago)
+- [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - (1 week ago)
 - [iawia002/lux](https://github.com/iawia002/lux) - (1 week ago)
 - [iFelix18/Userscripts](https://github.com/iFelix18/Userscripts) - (1 week ago)
 - [Semibold/Extensions-Steward](https://github.com/Semibold/Extensions-Steward) - (2 weeks ago)
