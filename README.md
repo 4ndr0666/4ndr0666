@@ -1,8 +1,8 @@
 #### 💀 History
 
-- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (today)
+- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (today)
 - [4ndr0666/scr](https://github.com/4ndr0666/scr) - (today)
-- [4ndr0666/Segmenter](https://github.com/4ndr0666/Segmenter) - (1 week ago)
+- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (today)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
