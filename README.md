@@ -1,8 +1,8 @@
 #### 💀 History
 
-- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (today)
-- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (today)
-- [4ndr0666/Segmenter](https://github.com/4ndr0666/Segmenter) - (6 days ago)
+- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (1 day ago)
+- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (1 day ago)
+- [4ndr0666/Segmenter](https://github.com/4ndr0666/Segmenter) - (1 week ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
@@ -17,8 +17,8 @@
 - [iawia002/lux](https://github.com/iawia002/lux) - (1 week ago)
 - [iFelix18/Userscripts](https://github.com/iFelix18/Userscripts) - (1 week ago)
 - [Semibold/Extensions-Steward](https://github.com/Semibold/Extensions-Steward) - (2 weeks ago)
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - (3 weeks ago)
-- [nokeya/direct-links-out](https://github.com/nokeya/direct-links-out) - (4 weeks ago)
+- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - (4 weeks ago)
+- [nokeya/direct-links-out](https://github.com/nokeya/direct-links-out) - (1 month ago)
 
 #### 📌 Links
 
