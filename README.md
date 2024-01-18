@@ -13,12 +13,12 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
-- [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - (1 week ago)
-- [iawia002/lux](https://github.com/iawia002/lux) - (1 week ago)
-- [iFelix18/Userscripts](https://github.com/iFelix18/Userscripts) - (1 week ago)
-- [Semibold/Extensions-Steward](https://github.com/Semibold/Extensions-Steward) - (2 weeks ago)
-- [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - (4 weeks ago)
-- [nokeya/direct-links-out](https://github.com/nokeya/direct-links-out) - (1 month ago)
+- [kpg-anon/scripts](https://github.com/kpg-anon/scripts) - (today)
+- [LeLobster/userscripts](https://github.com/LeLobster/userscripts) - (today)
+- [JaviertINC/userscripts](https://github.com/JaviertINC/userscripts) - (today)
+- [danydodson/userscripts](https://github.com/danydodson/userscripts) - (today)
+- [cilxe/JavaScriptProjects](https://github.com/cilxe/JavaScriptProjects) - (today)
+- [LegeBeker/bypass-paywalls-tampermonkey](https://github.com/LegeBeker/bypass-paywalls-tampermonkey) - (today)
 
 #### 📌 Links
 
