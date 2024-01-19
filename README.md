@@ -1,24 +1,24 @@
 #### 💀 History
 
-- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (today)
-- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (1 day ago)
-- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (1 day ago)
+- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (1 day ago)
+- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (2 days ago)
+- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (2 days ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
-- [Image search engine collection.](https://gist.github.com/275fe996ff2a5d9bc7619be288c6bac4) - (1 week ago)
-- [AI Search Engine Collection](https://gist.github.com/dd70ae0db8d17506ba097704cc17d606) - (1 week ago)
+- [Image search engine collection.](https://gist.github.com/275fe996ff2a5d9bc7619be288c6bac4) - (2 weeks ago)
+- [AI Search Engine Collection](https://gist.github.com/dd70ae0db8d17506ba097704cc17d606) - (2 weeks ago)
 - [](https://gist.github.com/cd22ab2bd4f5b4956af3e1f883ca0a60) - (1 month ago)
 - [ChatGPT README.md template](https://gist.github.com/4544fdae1dfd8d364821db23bd63dd7f) - (3 months ago)
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
-- [kpg-anon/scripts](https://github.com/kpg-anon/scripts) - (today)
-- [LeLobster/userscripts](https://github.com/LeLobster/userscripts) - (today)
-- [JaviertINC/userscripts](https://github.com/JaviertINC/userscripts) - (today)
-- [danydodson/userscripts](https://github.com/danydodson/userscripts) - (today)
-- [cilxe/JavaScriptProjects](https://github.com/cilxe/JavaScriptProjects) - (today)
-- [LegeBeker/bypass-paywalls-tampermonkey](https://github.com/LegeBeker/bypass-paywalls-tampermonkey) - (today)
+- [kpg-anon/scripts](https://github.com/kpg-anon/scripts) - (1 day ago)
+- [LeLobster/userscripts](https://github.com/LeLobster/userscripts) - (1 day ago)
+- [JaviertINC/userscripts](https://github.com/JaviertINC/userscripts) - (1 day ago)
+- [danydodson/userscripts](https://github.com/danydodson/userscripts) - (1 day ago)
+- [cilxe/JavaScriptProjects](https://github.com/cilxe/JavaScriptProjects) - (1 day ago)
+- [LegeBeker/bypass-paywalls-tampermonkey](https://github.com/LegeBeker/bypass-paywalls-tampermonkey) - (1 day ago)
 
 #### 📌 Links
 
