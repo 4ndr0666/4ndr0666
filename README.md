@@ -1,7 +1,7 @@
 #### 💀 History
 
-- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (1 day ago)
-- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (1 day ago)
+- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (today)
+- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (today)
 - [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (3 days ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
