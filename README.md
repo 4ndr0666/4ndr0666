@@ -1,8 +1,8 @@
 #### 💀 History
 
-- [4ndr0666/Best-Arch](https://github.com/4ndr0666/Best-Arch) - (2 days ago)
-- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (2 days ago)
-- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (2 days ago)
+- [4ndr0666/Best-Arch](https://github.com/4ndr0666/Best-Arch) - (3 days ago)
+- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (3 days ago)
+- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (3 days ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
@@ -13,12 +13,12 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
-- [kpg-anon/scripts](https://github.com/kpg-anon/scripts) - (5 days ago)
-- [LeLobster/userscripts](https://github.com/LeLobster/userscripts) - (5 days ago)
-- [JaviertINC/userscripts](https://github.com/JaviertINC/userscripts) - (5 days ago)
-- [danydodson/userscripts](https://github.com/danydodson/userscripts) - (5 days ago)
-- [cilxe/JavaScriptProjects](https://github.com/cilxe/JavaScriptProjects) - (5 days ago)
-- [LegeBeker/bypass-paywalls-tampermonkey](https://github.com/LegeBeker/bypass-paywalls-tampermonkey) - (5 days ago)
+- [kpg-anon/scripts](https://github.com/kpg-anon/scripts) - (6 days ago)
+- [LeLobster/userscripts](https://github.com/LeLobster/userscripts) - (6 days ago)
+- [JaviertINC/userscripts](https://github.com/JaviertINC/userscripts) - (6 days ago)
+- [danydodson/userscripts](https://github.com/danydodson/userscripts) - (6 days ago)
+- [cilxe/JavaScriptProjects](https://github.com/cilxe/JavaScriptProjects) - (6 days ago)
+- [LegeBeker/bypass-paywalls-tampermonkey](https://github.com/LegeBeker/bypass-paywalls-tampermonkey) - (6 days ago)
 
 #### 📌 Links
 
