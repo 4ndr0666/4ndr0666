@@ -1,8 +1,8 @@
 #### 💀 History
 
-- [4ndr0666/Best-Arch](https://github.com/4ndr0666/Best-Arch) - (4 days ago)
-- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (4 days ago)
-- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (4 days ago)
+- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (today)
+- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (today)
+- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (today)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
