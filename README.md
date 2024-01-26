@@ -1,13 +1,13 @@
 #### 💀 History
 
-- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (today)
-- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (today)
-- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (today)
+- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (1 day ago)
+- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (1 day ago)
+- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (1 day ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
-- [Image search engine collection.](https://gist.github.com/275fe996ff2a5d9bc7619be288c6bac4) - (2 weeks ago)
-- [AI Search Engine Collection](https://gist.github.com/dd70ae0db8d17506ba097704cc17d606) - (2 weeks ago)
+- [Image search engine collection.](https://gist.github.com/275fe996ff2a5d9bc7619be288c6bac4) - (3 weeks ago)
+- [AI Search Engine Collection](https://gist.github.com/dd70ae0db8d17506ba097704cc17d606) - (3 weeks ago)
 - [](https://gist.github.com/cd22ab2bd4f5b4956af3e1f883ca0a60) - (2 months ago)
 - [ChatGPT README.md template](https://gist.github.com/4544fdae1dfd8d364821db23bd63dd7f) - (4 months ago)
 
