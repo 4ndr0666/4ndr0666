@@ -13,12 +13,12 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
+- [SergeyZadorozhniy/OriginRequestsOnly](https://github.com/SergeyZadorozhniy/OriginRequestsOnly) - (today)
 - [guyujiezi/cicada](https://github.com/guyujiezi/cicada) - (today)
 - [vargiuscuola/gen-sh-unittest](https://github.com/vargiuscuola/gen-sh-unittest) - (1 day ago)
 - [kpg-anon/scripts](https://github.com/kpg-anon/scripts) - (1 week ago)
 - [LeLobster/userscripts](https://github.com/LeLobster/userscripts) - (1 week ago)
 - [JaviertINC/userscripts](https://github.com/JaviertINC/userscripts) - (1 week ago)
-- [danydodson/userscripts](https://github.com/danydodson/userscripts) - (1 week ago)
 
 #### 📌 Links
 
