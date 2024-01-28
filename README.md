@@ -1,8 +1,8 @@
 #### 💀 History
 
-- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (today)
-- [4ndr0666/Shelltest](https://github.com/4ndr0666/Shelltest) - (today)
-- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (1 day ago)
+- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (1 day ago)
+- [4ndr0666/Shelltest](https://github.com/4ndr0666/Shelltest) - (1 day ago)
+- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (2 days ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
@@ -13,7 +13,7 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
-- [vargiuscuola/gen-sh-unittest](https://github.com/vargiuscuola/gen-sh-unittest) - (today)
+- [vargiuscuola/gen-sh-unittest](https://github.com/vargiuscuola/gen-sh-unittest) - (1 day ago)
 - [kpg-anon/scripts](https://github.com/kpg-anon/scripts) - (1 week ago)
 - [LeLobster/userscripts](https://github.com/LeLobster/userscripts) - (1 week ago)
 - [JaviertINC/userscripts](https://github.com/JaviertINC/userscripts) - (1 week ago)
