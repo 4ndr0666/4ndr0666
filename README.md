@@ -1,8 +1,8 @@
 #### 💀 History
 
-- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (1 day ago)
-- [4ndr0666/Shelltest](https://github.com/4ndr0666/Shelltest) - (1 day ago)
-- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (2 days ago)
+- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (2 days ago)
+- [4ndr0666/Shelltest](https://github.com/4ndr0666/Shelltest) - (2 days ago)
+- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (3 days ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
 
@@ -13,9 +13,9 @@
 
 #### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
 
-- [SergeyZadorozhniy/OriginRequestsOnly](https://github.com/SergeyZadorozhniy/OriginRequestsOnly) - (today)
-- [guyujiezi/cicada](https://github.com/guyujiezi/cicada) - (today)
-- [vargiuscuola/gen-sh-unittest](https://github.com/vargiuscuola/gen-sh-unittest) - (1 day ago)
+- [SergeyZadorozhniy/OriginRequestsOnly](https://github.com/SergeyZadorozhniy/OriginRequestsOnly) - (1 day ago)
+- [guyujiezi/cicada](https://github.com/guyujiezi/cicada) - (1 day ago)
+- [vargiuscuola/gen-sh-unittest](https://github.com/vargiuscuola/gen-sh-unittest) - (2 days ago)
 - [kpg-anon/scripts](https://github.com/kpg-anon/scripts) - (1 week ago)
 - [LeLobster/userscripts](https://github.com/LeLobster/userscripts) - (1 week ago)
 - [JaviertINC/userscripts](https://github.com/JaviertINC/userscripts) - (1 week ago)
