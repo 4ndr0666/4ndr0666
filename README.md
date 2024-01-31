@@ -1,7 +1,7 @@
 #### 💀 History
 
+- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (1 day ago)
 - [4ndr0666/nas](https://github.com/4ndr0666/nas) - (2 days ago)
-- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (4 days ago)
 - [4ndr0666/Shelltest](https://github.com/4ndr0666/Shelltest) - (4 days ago)
 
 #### ⚡ [Gists](https://gist.github.com/4ndr0666)
