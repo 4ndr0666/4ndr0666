@@ -1,19 +1,9 @@
-#### 💀 History
-{{range recentContributions 3}}
+#### ⚡Recent⚡
+{{range recentContributions 6}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - ({{humanize .OccurredAt}})
 {{- end}}
 
-#### ⚡ [Gists](https://gist.github.com/4ndr0666)
-{{range gists 4}}
-- [{{.Description}}]({{.URL}}) - ({{humanize .CreatedAt}})
-{{- end}}
-
-#### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
-{{range recentStars 6}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - ({{humanize .StarredAt}})
-{{- end}}
-
-#### 📌 Links
+#### 💀Links
 
 - [Archwiki](https://wiki.archlinux.org/index.php?title=Special:Search&search)
 - [Garuda](https://start.garudalinux.org)
