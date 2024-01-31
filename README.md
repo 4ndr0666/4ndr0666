@@ -1,26 +1,13 @@
-#### 💀 History
+#### ⚡Recent⚡
 
+- [4ndr0666/gpt](https://github.com/4ndr0666/gpt) - (today)
 - [4ndr0666/scr](https://github.com/4ndr0666/scr) - (today)
+- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (today)
 - [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (today)
-- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (2 days ago)
+- [4ndr0666/Shelltest](https://github.com/4ndr0666/Shelltest) - (4 days ago)
+- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (5 days ago)
 
-#### ⚡ [Gists](https://gist.github.com/4ndr0666)
-
-- [Image search engine collection.](https://gist.github.com/275fe996ff2a5d9bc7619be288c6bac4) - (3 weeks ago)
-- [AI Search Engine Collection](https://gist.github.com/dd70ae0db8d17506ba097704cc17d606) - (3 weeks ago)
-- [](https://gist.github.com/cd22ab2bd4f5b4956af3e1f883ca0a60) - (2 months ago)
-- [ChatGPT README.md template](https://gist.github.com/4544fdae1dfd8d364821db23bd63dd7f) - (4 months ago)
-
-#### 🌟 [Stars](https://github.com/4ndr0666?tab=stars)
-
-- [mavandeh/backup-service](https://github.com/mavandeh/backup-service) - (today)
-- [SergeyZadorozhniy/OriginRequestsOnly](https://github.com/SergeyZadorozhniy/OriginRequestsOnly) - (3 days ago)
-- [guyujiezi/cicada](https://github.com/guyujiezi/cicada) - (3 days ago)
-- [vargiuscuola/gen-sh-unittest](https://github.com/vargiuscuola/gen-sh-unittest) - (4 days ago)
-- [kpg-anon/scripts](https://github.com/kpg-anon/scripts) - (1 week ago)
-- [LeLobster/userscripts](https://github.com/LeLobster/userscripts) - (1 week ago)
-
-#### 📌 Links
+#### 💀Links
 
 - [Archwiki](https://wiki.archlinux.org/index.php?title=Special:Search&search)
 - [Garuda](https://start.garudalinux.org)
