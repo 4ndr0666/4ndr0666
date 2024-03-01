@@ -5,7 +5,7 @@
 - [4ndr0666/4ndr0666_userscripts](https://github.com/4ndr0666/4ndr0666_userscripts) - (3 weeks ago)
 - [4ndr0666/Shelltest](https://github.com/4ndr0666/Shelltest) - (3 weeks ago)
 - [4ndr0666/gpt](https://github.com/4ndr0666/gpt) - (3 weeks ago)
-- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (4 weeks ago)
+- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (1 month ago)
 
 #### 💀Links
 
