@@ -3,8 +3,7 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}) - ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 💀Links
-
-- [4ndr0666 Engines](https://github.com/hoothin/SearchJumper/discussions/73)
-
+#### 💀
+- [Engines](https://github.com/hoothin/SearchJumper/discussions/73)
+- [Links](https://github.com/4ndr0666/Links/blob/main/README.md)
 <!-- comments will be preserved -->
