@@ -1,7 +1,7 @@
 #### ⚡Recent⚡
 
-- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (4 days ago)
-- [4ndr0666/gpt](https://github.com/4ndr0666/gpt) - (4 days ago)
+- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (5 days ago)
+- [4ndr0666/gpt](https://github.com/4ndr0666/gpt) - (5 days ago)
 - [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (1 week ago)
 - [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (1 week ago)
 - [4ndr0666/nas](https://github.com/4ndr0666/nas) - (1 week ago)
