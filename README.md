@@ -5,7 +5,7 @@
 - [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (1 week ago)
 - [4ndr0666/nas](https://github.com/4ndr0666/nas) - (1 week ago)
 - [4ndr0666/gpt](https://github.com/4ndr0666/gpt) - (2 weeks ago)
-- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (2 weeks ago)
+- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (3 weeks ago)
 
 #### 💀
 - [Engines](https://github.com/hoothin/SearchJumper/discussions/73)
