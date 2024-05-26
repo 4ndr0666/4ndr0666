@@ -1,6 +1,6 @@
 #### ⚡Recent⚡
 
-- [4ndr0666/gpt](https://github.com/4ndr0666/gpt) - (1 day ago)
+- [4ndr0666/gpt](https://github.com/4ndr0666/gpt) - (today)
 - [4ndr0666/Best-Arch](https://github.com/4ndr0666/Best-Arch) - (1 day ago)
 - [4ndr0666/nas](https://github.com/4ndr0666/nas) - (1 day ago)
 - [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (1 day ago)
