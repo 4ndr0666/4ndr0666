@@ -1,7 +1,7 @@
 #### ⚡Recent⚡
 
+- [4ndr0666/Wayfire_4ndr0666](https://github.com/4ndr0666/Wayfire_4ndr0666) - (today)
 - [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (1 week ago)
-- [4ndr0666/Wayfire_4ndr0666](https://github.com/4ndr0666/Wayfire_4ndr0666) - (1 week ago)
 - [4ndr0666/scr](https://github.com/4ndr0666/scr) - (1 week ago)
 - [4ndr0666/gpt](https://github.com/4ndr0666/gpt) - (2 weeks ago)
 - [4ndr0666/nas](https://github.com/4ndr0666/nas) - (3 weeks ago)
