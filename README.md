@@ -1,11 +1,11 @@
 #### ⚡Recent⚡
 
-- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (2 days ago)
-- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (2 days ago)
+- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (3 days ago)
+- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (3 days ago)
 - [4ndr0666/Wayfire_4ndr0666](https://github.com/4ndr0666/Wayfire_4ndr0666) - (1 week ago)
 - [4ndr0666/gpt](https://github.com/4ndr0666/gpt) - (4 weeks ago)
-- [4ndr0666/Best-Arch](https://github.com/4ndr0666/Best-Arch) - (4 weeks ago)
-- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (4 weeks ago)
+- [4ndr0666/Best-Arch](https://github.com/4ndr0666/Best-Arch) - (1 month ago)
+- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (1 month ago)
 
 #### 💀
 - [Engines](https://github.com/hoothin/SearchJumper/discussions/73)
