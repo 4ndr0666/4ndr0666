@@ -1,7 +1,7 @@
 #### ⚡Recent⚡
 
-- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (4 days ago)
-- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (4 days ago)
+- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (5 days ago)
+- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (5 days ago)
 - [4ndr0666/Wayfire_4ndr0666](https://github.com/4ndr0666/Wayfire_4ndr0666) - (1 week ago)
 - [4ndr0666/gpt](https://github.com/4ndr0666/gpt) - (1 month ago)
 - [4ndr0666/Best-Arch](https://github.com/4ndr0666/Best-Arch) - (1 month ago)
