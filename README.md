@@ -1,6 +1,6 @@
 #### ⚡Recent⚡
 
-- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (3 days ago)
+- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (4 days ago)
 - [4ndr0666/nas](https://github.com/4ndr0666/nas) - (1 week ago)
 - [4ndr0666/Best-Arch](https://github.com/4ndr0666/Best-Arch) - (3 weeks ago)
 - [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (3 weeks ago)
