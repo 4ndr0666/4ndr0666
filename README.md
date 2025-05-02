@@ -1,9 +1,9 @@
 #### ⚡Recent⚡
 
-- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (2 days ago)
-- [4ndr0666/gpt](https://github.com/4ndr0666/gpt) - (2 days ago)
-- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (4 days ago)
-- [4ndr0666/userscripts](https://github.com/4ndr0666/userscripts) - (5 days ago)
+- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (3 days ago)
+- [4ndr0666/gpt](https://github.com/4ndr0666/gpt) - (3 days ago)
+- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (5 days ago)
+- [4ndr0666/userscripts](https://github.com/4ndr0666/userscripts) - (6 days ago)
 - [4ndr0666/Best-Arch](https://github.com/4ndr0666/Best-Arch) - (1 week ago)
 - [4ndr0666/nas](https://github.com/4ndr0666/nas) - (1 week ago)
 
