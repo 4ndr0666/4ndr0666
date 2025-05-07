@@ -1,10 +1,10 @@
 #### ⚡Recent⚡
 
+- [4ndr0666/gpt](https://github.com/4ndr0666/gpt) - (today)
+- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (today)
 - [4ndr0666/scr](https://github.com/4ndr0666/scr) - (1 day ago)
 - [4ndr0666/Omniverse-Digital-Twin-School](https://github.com/4ndr0666/Omniverse-Digital-Twin-School) - (1 day ago)
-- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (1 day ago)
 - [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (2 days ago)
-- [4ndr0666/gpt](https://github.com/4ndr0666/gpt) - (4 days ago)
 - [4ndr0666/userscripts](https://github.com/4ndr0666/userscripts) - (1 week ago)
 
 #### 💀
