@@ -5,6 +5,6 @@
 {{- end}}
 
 ---
-
-[Links](https://github.com/4ndr0666/Links/blob/main/README.md)        [SearchJumper Engines](https://github.com/hoothin/SearchJumper/discussions/73)    
+- [Links](https://github.com/4ndr0666/Links/blob/main/README.md)        
+- [Engines](https://github.com/hoothin/SearchJumper/discussions/73)    
 <!-- comments will be preserved -->
