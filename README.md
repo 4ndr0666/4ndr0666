@@ -1,8 +1,8 @@
 ## ⚡💀 Recently Pushed ⚡💀
 
 
-- [4ndr0666/userscripts](https://github.com/4ndr0666/userscripts) - (3 days ago)
-- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (4 days ago)
+- [4ndr0666/userscripts](https://github.com/4ndr0666/userscripts) - (4 days ago)
+- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (5 days ago)
 - [4ndr0666/nas](https://github.com/4ndr0666/nas) - (1 week ago)
 
 ---
