@@ -2,8 +2,8 @@
 
 
 - [4ndr0666/scr](https://github.com/4ndr0666/scr) - (today)
+- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (today)
 - [4ndr0666/4ndr0prompts](https://github.com/4ndr0666/4ndr0prompts) - (1 day ago)
-- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (2 days ago)
 
 ---
 - [Links](https://github.com/4ndr0666/Links/blob/main/README.md)        
