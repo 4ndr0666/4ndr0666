@@ -2,7 +2,7 @@
 
 
 - [4ndr0666/scr](https://github.com/4ndr0666/scr) - (today)
-- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (5 days ago)
+- [4ndr0666/4ndr0debugger](https://github.com/4ndr0666/4ndr0debugger) - (today)
 - [4ndr0666/Wayfire_4ndr0666](https://github.com/4ndr0666/Wayfire_4ndr0666) - (5 days ago)
 
 ---
