@@ -1,7 +1,7 @@
 ## ⚡💀 Recently Pushed ⚡💀
 
 
-- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (1 day ago)
+- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (today)
 - [4ndr0666/4ndr0debugger](https://github.com/4ndr0666/4ndr0debugger) - (1 day ago)
 - [4ndr0666/hyprland_4ndr0666](https://github.com/4ndr0666/hyprland_4ndr0666) - (2 days ago)
 
