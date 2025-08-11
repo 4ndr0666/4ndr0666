@@ -3,7 +3,7 @@
 
 - [4ndr0666/scr](https://github.com/4ndr0666/scr) - (today)
 - [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (today)
-- [4ndr0666/4ndr0debugger](https://github.com/4ndr0666/4ndr0debugger) - (1 day ago)
+- [4ndr0666/css](https://github.com/4ndr0666/css) - (today)
 
 ---
 - [Links](https://github.com/4ndr0666/Links/blob/main/README.md)        
