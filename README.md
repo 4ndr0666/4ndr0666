@@ -1,9 +1,9 @@
 ## ⚡💀 Recently Pushed ⚡💀
 
 
+- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (1 day ago)
 - [4ndr0666/userscripts](https://github.com/4ndr0666/userscripts) - (2 days ago)
 - [4ndr0666/4ndr0debugger](https://github.com/4ndr0666/4ndr0debugger) - (2 days ago)
-- [4ndr0666/cheater](https://github.com/4ndr0666/cheater) - (2 days ago)
 
 ---
 - [Links](https://github.com/4ndr0666/Links/blob/main/README.md)        
