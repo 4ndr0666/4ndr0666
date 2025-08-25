@@ -1,7 +1,7 @@
 ## ⚡💀 Recently Pushed ⚡💀
 
 
-- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (1 day ago)
+- [4ndr0666/gpt](https://github.com/4ndr0666/gpt) - (today)
 - [4ndr0666/4ndr0prompts](https://github.com/4ndr0666/4ndr0prompts) - (1 day ago)
 - [4ndr0666/scr](https://github.com/4ndr0666/scr) - (1 day ago)
 
