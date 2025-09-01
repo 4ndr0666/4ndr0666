@@ -1,8 +1,8 @@
 ## ⚡💀 Recently Pushed ⚡💀
 
 
+- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (today)
 - [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (today)
-- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (4 days ago)
 - [4ndr0666/userscripts](https://github.com/4ndr0666/userscripts) - (5 days ago)
 
 ---
