@@ -2,8 +2,8 @@
 
 
 - [4ndr0666/userscripts](https://github.com/4ndr0666/userscripts) - (today)
-- [4ndr0666/4ndr0debugger](https://github.com/4ndr0666/4ndr0debugger) - (1 day ago)
-- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (1 day ago)
+- [4ndr0666/4ndr0debugger](https://github.com/4ndr0666/4ndr0debugger) - (today)
+- [4ndr0666/4ndr0serviceguard](https://github.com/4ndr0666/4ndr0serviceguard) - (1 day ago)
 
 ---
 - [Links](https://github.com/4ndr0666/Links/blob/main/README.md)        
