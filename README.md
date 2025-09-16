@@ -1,8 +1,8 @@
 ## ⚡💀 Recently Pushed ⚡💀
 
 
+- [4ndr0666/4ndr0cookie](https://github.com/4ndr0666/4ndr0cookie) - (today)
 - [4ndr0666/4ndr0debugger](https://github.com/4ndr0666/4ndr0debugger) - (1 day ago)
-- [4ndr0666/4ndr0cookie](https://github.com/4ndr0666/4ndr0cookie) - (1 day ago)
 - [4ndr0666/userscripts](https://github.com/4ndr0666/userscripts) - (1 day ago)
 
 ---
