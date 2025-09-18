@@ -3,7 +3,7 @@
 
 - [4ndr0666/nas](https://github.com/4ndr0666/nas) - (1 day ago)
 - [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (1 day ago)
-- [4ndr0666/userscripts](https://github.com/4ndr0666/userscripts) - (1 day ago)
+- [4ndr0666/4ndr0debugger](https://github.com/4ndr0666/4ndr0debugger) - (1 day ago)
 
 ---
 - [Links](https://github.com/4ndr0666/Links/blob/main/README.md)        
