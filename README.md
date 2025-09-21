@@ -3,7 +3,7 @@
 
 - [4ndr0666/4ndr0cookie](https://github.com/4ndr0666/4ndr0cookie) - (today)
 - [4ndr0666/4ndr0serviceguard](https://github.com/4ndr0666/4ndr0serviceguard) - (today)
-- [4ndr0666/m3tracker](https://github.com/4ndr0666/m3tracker) - (today)
+- [4ndr0666/FancyTracker](https://github.com/4ndr0666/FancyTracker) - (today)
 - [Links](https://github.com/4ndr0666/Links/blob/main/README.md)        
 - [Engines](https://github.com/hoothin/SearchJumper/discussions/73)    
 
