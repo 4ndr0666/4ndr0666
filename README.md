@@ -1,9 +1,9 @@
 ## ⚡💀 <a href="https://4ndr0666.github.io/4ndr0site" target="_blank">4ndr0666's</a> Recently Pushed ⚡💀
 
 
-- [4ndr0666/4ndr0cookie](https://github.com/4ndr0666/4ndr0cookie) - (today)
-- [4ndr0666/4ndr0serviceguard](https://github.com/4ndr0666/4ndr0serviceguard) - (today)
-- [4ndr0666/FancyTracker](https://github.com/4ndr0666/FancyTracker) - (today)
+- [4ndr0666/4ndr0cookie](https://github.com/4ndr0666/4ndr0cookie) - (1 day ago)
+- [4ndr0666/4ndr0serviceguard](https://github.com/4ndr0666/4ndr0serviceguard) - (1 day ago)
+- [4ndr0666/FancyTracker](https://github.com/4ndr0666/FancyTracker) - (1 day ago)
 - [Links](https://github.com/4ndr0666/Links/blob/main/README.md)        
 - [Engines](https://github.com/hoothin/SearchJumper/discussions/73)    
 
