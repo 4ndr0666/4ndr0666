@@ -1,7 +1,7 @@
 ## ⚡💀 <a href="https://4ndr0666.github.io/4ndr0site" target="_blank">4ndr0666's</a> Recently Pushed ⚡💀
 
 
-- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (2 days ago)
+- [4ndr0666/scr](https://github.com/4ndr0666/scr) - (1 day ago)
 - [4ndr0666/userscripts](https://github.com/4ndr0666/userscripts) - (5 days ago)
 - [4ndr0666/cheater](https://github.com/4ndr0666/cheater) - (1 week ago)
 - [Links](https://github.com/4ndr0666/Links/blob/main/README.md)        
