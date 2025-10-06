@@ -2,7 +2,7 @@
 
 
 - [4ndr0666/cheater](https://github.com/4ndr0666/cheater) - (today)
-- [4ndr0666/4ndr0debugger](https://github.com/4ndr0666/4ndr0debugger) - (1 day ago)
+- [4ndr0666/dotfiles](https://github.com/4ndr0666/dotfiles) - (today)
 - [4ndr0666/userscripts](https://github.com/4ndr0666/userscripts) - (1 day ago)
 - [Links](https://github.com/4ndr0666/Links/blob/main/README.md)        
 - [Engines](https://github.com/hoothin/SearchJumper/discussions/73)    
