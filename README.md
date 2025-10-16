@@ -2,8 +2,8 @@
 
 
 - [4ndr0666/4ndr0chat](https://github.com/4ndr0666/4ndr0chat) - (today)
-- [4ndr0666/nas](https://github.com/4ndr0666/nas) - (1 day ago)
-- [4ndr0666/gpt](https://github.com/4ndr0666/gpt) - (2 days ago)
+- [4ndr0666/4ndr0debugger](https://github.com/4ndr0666/4ndr0debugger) - (today)
+- [4ndr0666/4ndr0site](https://github.com/4ndr0666/4ndr0site) - (today)
 - [Links](https://github.com/4ndr0666/Links/blob/main/README.md)        
 - [Engines](https://github.com/hoothin/SearchJumper/discussions/73)    
 
