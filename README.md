@@ -1,8 +1,8 @@
 ## ⚡💀 <a href="https://4ndr0666.github.io/4ndr0site" target="_blank">4ndr0666's</a> Recently Pushed ⚡💀
 
 
-- [4ndr0666/userscripts](https://github.com/4ndr0666/userscripts) - (today)
-- [4ndr0666/gpt](https://github.com/4ndr0666/gpt) - (1 day ago)
+- [4ndr0666/userscripts](https://github.com/4ndr0666/userscripts) - (1 day ago)
+- [4ndr0666/gpt](https://github.com/4ndr0666/gpt) - (2 days ago)
 - [4ndr0666/4ndr0chat](https://github.com/4ndr0666/4ndr0chat) - (1 week ago)
 - [Links](https://github.com/4ndr0666/Links/blob/main/README.md)        
 - [Engines](https://github.com/hoothin/SearchJumper/discussions/73)    
