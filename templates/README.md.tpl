@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://4ndr0666.github.io/4ndr0site" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Initializing+System...;Hello,+I%27m+4ndr0666;Exploring+Digital+Security;Loading+Recent+Pushes..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Booting+4NDR0666OS...;Lasciate+ogne+speranza...;Electric-Glass+Matrix+Online;Loading+Recent+Pushes..." alt="Typing SVG" />
   </a>
 </div>
 
