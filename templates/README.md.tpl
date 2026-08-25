@@ -4,7 +4,7 @@
   </a>
 </div>
 
-{{range recentContributions 3 "4ndr0666"}}
+{{range recentContributions 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - ({{humanize .OccurredAt}})
 {{- end}}
 
