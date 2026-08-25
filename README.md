@@ -1,17 +1,6 @@
-<style>
-  @keyframes blink-cursor {
-    0%, 49% { opacity: 1; }
-    50%, 100% { opacity: 0; }
-  }
-  .blink-cursor {
-    display: inline-block;
-    animation: blink-cursor 0.7s infinite;
-  }
-</style>
-
 <div align="center">
   <a href="https://4ndr0666.github.io/4ndr0site" target="_blank">
-    <span class="blink-cursor">█▓░</span><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=4NDR0666OS%20%3A%3A%20INITIALIZING...;%CE%A8%20SYSTEM%20ONLINE!;AGGREGATING%20RECENT%20PUSHES" target="_blank" alt="4NDR0666OS">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&blink=true&lines=%E2%96%88%E2%96%93%E2%96%914NDR0666OS%20%3A%3A%20INITIALIZING...;%E2%96%88%E2%96%93%E2%96%91%CE%A8%20SYSTEM%20ONLINE!;%E2%96%88%E2%96%93%E2%96%91AGGREGATING%20RECENT%20PUSHES" target="_blank" alt="4NDR0666OS">
   </a>
 </div>
 
