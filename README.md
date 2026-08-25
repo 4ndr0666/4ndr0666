@@ -4,14 +4,12 @@
   </a>
 </div>
 
+---
 
-- 📌 [4ndr0666/userscripts](https://github.com/4ndr0666/userscripts) - `1 day ago`
-- 📌 [4ndr0666/scr](https://github.com/4ndr0666/scr) - `1 day ago`
-- 📌 [4ndr0666/gpt](https://github.com/4ndr0666/gpt) - `1 day ago`
 
-<div align="center">
-  <sub>⊰💀•-⦑4NDR0666OS⦒-•💀⊱</sub>
-</div>
+- ≽ [4ndr0666/userscripts](https://github.com/4ndr0666/userscripts) - `1 day ago`
+- ≽ [4ndr0666/scr](https://github.com/4ndr0666/scr) - `1 day ago`
+- ≽ [4ndr0666/gpt](https://github.com/4ndr0666/gpt) - `1 day ago`
 
 <div align="center">
 
@@ -19,3 +17,6 @@
 
 </div>
 
+<div align="center">
+  <sub>⊰💀•-⦑4NDR0666OS⦒-•💀⊱</sub>
+</div>
