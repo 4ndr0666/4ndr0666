@@ -4,18 +4,14 @@
   </a>
 </div>
 
----
-
-## 🚀 Latest Push
-
 
 - 📌 [4ndr0666/userscripts](https://github.com/4ndr0666/userscripts) - `1 day ago`
 - 📌 [4ndr0666/scr](https://github.com/4ndr0666/scr) - `1 day ago`
 - 📌 [4ndr0666/gpt](https://github.com/4ndr0666/gpt) - `1 day ago`
 
----
-
-## 💻 Tech Stack & Tools
+<div align="center">
+  <sub>⊰💀•-⦑4NDR0666OS⦒-•💀⊱</sub>
+</div>
 
 <div align="center">
 
@@ -23,6 +19,3 @@
 
 </div>
 
-<div align="center">
-  <sub>⊰💀•-⦑4NDR0666OS⦒-•💀⊱</sub>
-</div>
