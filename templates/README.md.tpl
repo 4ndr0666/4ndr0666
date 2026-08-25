@@ -4,17 +4,13 @@
   </a>
 </div>
 
----
-
-## 🚀 Latest Push
-
 {{range recentContributions 3}}
 - 📌 [{{.Repo.Name}}]({{.Repo.URL}}) - `{{humanize .OccurredAt}}`
 {{- end}}
 
----
-
-## 💻 Tech Stack & Tools
+<div align="center">
+  <sub>⊰💀•-⦑4NDR0666OS⦒-•💀⊱</sub>
+</div>
 
 <div align="center">
 
@@ -22,6 +18,3 @@
 
 </div>
 
-<div align="center">
-  <sub>⊰💀•-⦑4NDR0666OS⦒-•💀⊱</sub>
-</div>
