@@ -4,13 +4,11 @@
   </a>
 </div>
 
-{{range recentContributions 3}}
-- 📌 [{{.Repo.Name}}]({{.Repo.URL}}) - `{{humanize .OccurredAt}}`
-{{- end}}
+---
 
-<div align="center">
-  <sub>⊰💀•-⦑4NDR0666OS⦒-•💀⊱</sub>
-</div>
+{{range recentContributions 3}}
+- ≽ [{{.Repo.Name}}]({{.Repo.URL}}) - `{{humanize .OccurredAt}}`
+{{- end}}
 
 <div align="center">
 
@@ -18,3 +16,6 @@
 
 </div>
 
+<div align="center">
+  <sub>⊰💀•-⦑4NDR0666OS⦒-•💀⊱</sub>
+</div>
